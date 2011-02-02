@@ -38,7 +38,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Look, whom she best endow'd she gave the more; [#]_
+    | Look, whom she best endow'd she gave thee more; [#]_
     | Our fancies are more giddy and unfirm. [#]_
     
 #.
