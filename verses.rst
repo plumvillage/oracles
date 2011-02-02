@@ -5,8 +5,8 @@ Shakespeare Oracle Verses
 #.
 
     | To swim, to dive into the fire, to ride
-    | On the curled clouds. [#]_
-    | Whose speechless song being many, seem one. [#]_
+    | On the curled clouds, [#]_
+    | Whose speechless song being many, seems one. [#]_
 
 
 #.
@@ -58,7 +58,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | New-bent in heaven, shall behold the night [#]_
+    | The moon new-bent in heaven, shall behold the night [#]_
     | That has such people in't! [#]_
 
 #.
@@ -346,7 +346,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | The undiscover'd country from whose bourn [#]_
+    | The undiscover'd country from whose bourn no traveller returns, [#]_
     | Two lovely berries moulded on one stem. [#]_
 
 #.
@@ -367,8 +367,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | All that glitters is not gold, [#]_
-    | Come not between the dragon and his wrath. [#]_
+    | All that glisters is not gold, [#]_
+    | To plainness honour's bound when majesty falls to folly. [#]_
 
 #.
     | Think'st thou I'd make a life of jealousy? [#]_
@@ -469,7 +469,7 @@ Shakespeare Oracle Verses
     | But I will tarry; the fool will stay,
     | And let the wise man fly:
     | The knave turns fool that runs away;
-    | The fool no knave, perdy. [#]_
+    | The fool no knave, pardie. [#]_
 
 #.
 
@@ -489,7 +489,7 @@ Shakespeare Oracle Verses
 #.
 
     | But thou, contracted to thine own bright eyes,
-    | Feed'st thy light'st flame with self-substantial fuel, [#]_
+    | Feed'st thy light'st flame with self-substantial fuel. [#]_
 
 #.
 
@@ -504,7 +504,7 @@ Shakespeare Oracle Verses
 #.
 
     | Make me a willow cabin at your gate,
-    | And call upon my soul within the house; [#]_
+    | And call upon my soul within the house. [#]_
 
 #.
 
@@ -515,48 +515,43 @@ Shakespeare Oracle Verses
 #.
 
     | Or to thyself at least kind-hearted prove: [#]_
-    | As fast as thou shalt wane, so fast thou growest [#]_
-
-#.
-
-    | Mend your speech a little,
-    | Lest it may mar your fortunes. [#]_
+    | As fast as thou shalt wane, so fast thou growest. [#]_
 
 
 .. rubric:: Footnotes
 
 .. [#] The Tempest 1.2: Ariel.
 .. [#] Sonnet 8. "Seeming" changed to "seem".
-.. [#] Sonnet 60. "Transfix" here means "pierce through". 
+.. [#] Sonnet 60. "Transfix" here means "pierce through." 
 .. [#] Sonnet 11. 
 .. [#] The Tempest 1.2: Prospero.
 .. [#] Sonnet 3. "Glass" here means "mirror."
-.. [#] The Tempest 2.1: Francisco. Francisco assures Alonso that he saw Ferdinand swimming after the shipwreck, and that he may yet live.
+.. [#] The Tempest 2.1: Francisco. He assures Alonso that he saw Ferdinand swimming after the shipwreck, and that he may yet live.
 .. [#] Sonnet 10.
-.. [#] King Lear 5.3: King Lear. King Lear depicts a peaceful life together with his daughter Cordelia, with whom he is now reconciled.
-.. [#] The Tempest Epilogue: Prospero. 
+.. [#] King Lear 5.3: King Lear. He depicts a peaceful life together with his daughter Cordelia, with whom he has reconciled.
+.. [#] The Tempest Epilogue: Prospero. "Charms" here means "spells" or "enchantments."
 .. [#] Romeo and Juliet 1.4: Mercutio. "I talk of dreams."
-.. [#] Sonnet 11. She here is nature.
-.. [#] Twelfth Night 2.4: Duke Orisino. Here he notes the unsteadiness of man's desires.
+.. [#] Sonnet 11. "She" here is Nature.
+.. [#] Twelfth Night 2.4: Duke Orsino. Here he notes the unsteadiness of man's desires.
 .. [#] Sonnet 5. Trees in winter.
 .. [#] Twelfth Night 1.2: Captain. He reassures Viola that her brother may have saved himself from drowning.
 .. [#] Sonnet 18. Inclement weather precedes summer.
 .. [#] King Lear 5.3: King Lear. He vows to begin anew with his daughter Cordelia for having judged her wrongly.
-.. [#] Hamlet 1.2: Hamlet. Reminded by his mother that "All that lives must die," Hamlet explains why he seems so particularly mournful of his father's passing.
+.. [#] Hamlet, Prince of Denmark 1.2: Hamlet. Reminded by his mother that "All that lives must die," Hamlet explains why he is so particular in mourning his father's death.
 .. [#] As You Like It 2.7: Jaques. Manifestation only.
 .. [#] A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the world at night.
-.. [#] The Tempest 5.1: Miranda. She wonders at Alonso's retinue upon his reconciliation with Ferdinand, after being raised by Prospero apart from humanity. 
+.. [#] The Tempest 5.1: Miranda. She wonders at Alonso's retinue upon his reunion with Ferdinand, after being raised by Prospero apart from humanity. 
 .. [#] Sonnet 7. The sun rising.
 .. [#] King Lear 2.2: Kent. He has been put in stocks by Cornwall and Regan, Lear's daughter.
 .. [#] Sonnet 5. The earth at winter.
-.. [#] Hamlet 1.2: Hamlet. Added "s" to thaw and resolve.
+.. [#] Hamlet, Prince of Denmark 1.2: Hamlet. Added "s" to thaw and resolve.
 .. [#] King Lear 1.2: Edmund. Cause and effect.
-.. [#] Hamlet 3.2: Hamlet. He charges Guildenstern with trying to play upon him to discover the root of his discontent.
+.. [#] Hamlet, Prince of Denmark 3.2: Hamlet. He charges Guildenstern with trying to play upon him to discover the root of his discontent.
 .. [#] A Midsummer Night's Dream 2.1: Helena. She professes the steadfastness of her love for Demetrius. 
 .. [#] Sonnet 1.
 .. [#] Twelfth Night 1.3: Sir Toby Belch. He feels his niece Olivia should be free of the sorrow caused by her brother's death.
 .. [#] The Tempest 1.2: Miranda. She wishes Prospero to tell her who she is.
-.. [#] Twelfth Night 1.2: Viola. She disguises herself as a eunuch to serve the Duke of Orsino.
+.. [#] Twelfth Night 1.2: Viola. She disguises herself as a eunuch to serve the Duke Orsino.
 .. [#] King Lear 1.4: Fool. 
 .. [#] Sonnet 18. For "thou ow'st" read "you own," meaning that fair which is yours.
 .. [#] The Tempest 1.2: Prospero. He asks Miranda to see what she remembers of her past.
@@ -564,32 +559,32 @@ Shakespeare Oracle Verses
 .. [#] Sonnet 16.
 .. [#] A Midsummer Night's Dream 2.1: Fairy. He describes the spots on cowslips.
 .. [#] Love's Labour Lost: 4.3. Prometheus stole fire back from Zeus and gave it to mortals.
-.. [#] King Lear 5.2: Edgar. He speaks these lines to Gloucester after learning that Cordelia has lost the battle in order to rouse him.
-.. [#] Hamlet 3.1: Hamlet. Tortured by the perceived collusion of his mother with Claudius, he rejects Ophelia.
-.. [#] The Tempest 4.1: Iris. Spirits celebrate Ferdinand's the winning of Miranda's hand.
+.. [#] King Lear 5.2: Edgar. He speaks these lines to Gloucester after learning that Cordelia has lost the battle in order to rouse him. No coming, no going. Present moment.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet. Seeing his destructive emotions and afraid for Ophelia's wellbeing, he pushes her away.
+.. [#] The Tempest 4.1: Iris. Spirits celebrate Ferdinand's winning of Miranda's hand.
 .. [#] Twelfth Night 2.4: Viola. She describes Olivia's response to Duke Orsino's entreaties. 
 .. [#] King Lear 4.6: King Lear. To the blinded Gloucester.
-.. [#] King Lear 4.6: Edgar.
-.. [#] Hamlet 3.1: Hamlet.
-.. [#] Hamlet 5.2: Hamlet.
+.. [#] King Lear 4.6: Edgar. To Gloucester.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 5.2: Hamlet.
 .. [#] The Tempest 5.1: Miranda. On seeing her betrothed Ferdinand's father Alonso and his retinue.
 .. [#] The Tempest 5.1: Ariel. On learning he will soon be freed from his service to Prospero.
 .. [#] The Tempest 4.1: Prospero. Explaining his magic arts to Ferdinand.
-.. [#] Sonnet 150. "To" changed to "do."
+.. [#] Sonnet 150. "To" changed to "do." Stop seeing the truth.
 .. [#] King Lear 3.2: King Lear. He realizes the value of a bit of hay in a hovel as refuge against a storm.
 .. [#] The Tempest 4.1: Iris.
 .. [#] The Tempest 5.1: Ariel.
 .. [#] The Tempest 3.2: Caliban.
 .. [#] The Tempest 5.1: Ariel.
-.. [#] Hamlet 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] The Merchant of Venice 4.1: Portia. She speaks of the quality of mercy.
-.. [#] Hamlet 2.2: Hamlet. To Guildenstern, despite his lose of mirth.
+.. [#] Hamlet, Prince of Denmark 2.2: Hamlet. To Guildenstern, despite his loss of mirth.
 .. [#] The Tempest 1.2: Ferdinand.
 .. [#] Twelfth Night 1.1: Valentine. To Duke Orsino on Olivia's mourning of her brother's death.
 .. [#] Twelfth Night 3.4: Antonio.
 .. [#] The Tempest 2.2: Trinculo. Taking refuge from a storm, he shelters himself under Caliban's cover.
 .. [#] Romeo and Juliet 1.4: Mercutio. Speaking of dreams of desire.
-.. [#] Hamlet 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] Love's Labour Lost 4.3: Biron.
 .. [#] The Merchant of Venice 2.7: Morocco.
 .. [#] Twelfth Night 1.3: Sir Toby Belch.
@@ -597,18 +592,18 @@ Shakespeare Oracle Verses
 .. [#] The Tempest 1.2: Prospero. He reveals to Miranda her past. "Ope" is "open," "thine" is "your."
 .. [#] Twelfth Night 2.4: Viola.
 .. [#] Twelfth Night 1.1: Duke Orsino.
-.. [#] Hamlet 3.1: Hamlet. Our projects, our cows, etc..
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet. Our projects, our cows, etc..
 .. [#] The Tempest 4.1: Prospero. What becomes of his conjured spirits.
 .. [#] Romeo and Juliet 2.2: Juliet. Her response to Romeo's avowals.
-.. [#] Hamlet 5.2: Hamlet. Before dueling with Laertes.
+.. [#] Hamlet, Prince of Denmark 5.2: Hamlet. Before dueling with Laertes.
 .. [#] The Tempest 1.2: Prospero. Reassuring Miranda.
 .. [#] King Lear 5.3: Albany. Closing words. A reference to the wrong perceptions that estranged Cordelia from her father.
 .. [#] Twelfth Night 1.2: Viola.
-.. [#] Hamlet 1.2: Hamlet.
-.. [#] Hamlet 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 1.2: Hamlet. Interpretation: A disguise or a self only leads to weariness.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] Othello 5.2: Othello. Manas loves what it finds in store consciousness.
 .. [#] A Midsummer Night's Dream 5.1: Puck.
-.. [#] Hamlet 4.3: Hamlet. He demonstrates how a worm that eats of a dead king may be used to fish by a beggar, who then eats of that fish. Interbeing of eaten and eater.
+.. [#] Hamlet, Prince of Denmark 4.3: Hamlet. He demonstrates how a worm that eats of a dead king may be used to fish by a beggar, who then eats of that fish. Interbeing of eaten and eater.
 .. [#] King Lear 1.1: King Lear. Despite Cordelia's honesty, Lear does not perceive her faithfulness to him. These verses incite us to engage with truth as a test of faith, leaving behind the dower of possessions.
 .. [#] King Lear 4.1: Gloucester. Blinded and lost.
 .. [#] Othello 3.3: Othello. Leaving the way of suspicion we turn within, to the mind of non-discrimination.
@@ -620,14 +615,14 @@ Shakespeare Oracle Verses
 .. [#] Sonnet 11. Touching impermanence we get wisdom, and our love increases.
 .. [#] A Midsummer Night's Dream 2.1: Fairy.
 .. [#] The Merchant of Venice 4.1: Portia. On mercy (compassion).
-.. [#] Hamlet 5.1: Hamlet. Hercules was given numerous seemingly impossible tasks to accomplish, which he did, through skill and strength.
+.. [#] Hamlet, Prince of Denmark 5.1: Hamlet. Hercules was given numerous seemingly impossible tasks to accomplish, which he did, through skill and strength.
 .. [#] A Midsummer Night's Dream 5.1: Puck. The power make to pardon and make amends exceeds that of strength and skill.
 .. [#] Sonnet 16.
 .. [#] Sonnet 13.
 .. [#] Sonnet 18.
 .. [#] A Midsummer Night's Dream 3.2: Helena.
 .. [#] A Midsummer Night's Dream 2.1: Fairy. Read "thorough" as "through."
-.. [#] Hamlet 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] Richard III 5.5: Richmond. Brotherhood and peace to succeed strife.
 .. [#] Twelfth Night 2.4: Duke Orsino.
 .. [#] King Lear 3.4: King Lear. 
@@ -636,28 +631,28 @@ Shakespeare Oracle Verses
 .. [#] Twelfth Night 1.2: Viola. Beginner's mind, aspiration.
 .. [#] The Merchant of Venice 2.2: Launcelot. 
 .. [#] A Midsummer Night's Dream 3.2: Helena.
-.. [#] Hamlet 2.2: Hamlet. He speaks of man.
+.. [#] Hamlet, Prince of Denmark 2.2: Hamlet. He speaks of man.
 .. [#] A Midsummer Night's Dream 2.1: Oberon. Of a mermaid on a dolphin's back.
-.. [#] Hamlet 4.5: King Claudius. After the death of Polonius.
+.. [#] Hamlet, Prince of Denmark 4.5: King Claudius. After the death of Polonius.
 .. [#] Sonnet 150. Our sorrow distorts reality.
-.. [#] Hamlet 3.1: Hamlet. Suffering resulting from past actions.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet. Suffering resulting from past actions.
 .. [#] The Merchant of Venice 5.1: Bassanio. The stars.
 .. [#] Sonnet 150.
 .. [#] Sonnet 18. The insight of impermanence gives us power over our lives.
 .. [#] Romeo and Juliet 2.2: Juliet. Here Romeo's name represents the discriminating mind; free from the name we are free from the discriminating mind.
-.. [#] The Tempest 1.2: Ferdinand. He is drawn by Miranda but under the charm of Prospero.
+.. [#] The Tempest 1.2: Ferdinand. He is drawn by Miranda but bound by the charm of Prospero.
 .. [#] The Tempest 4.1: Ceres. Free from thinking our mind is unbound.
 .. [#] Sonnet 5. Time here is impermanence.
 .. [#] King Lear 5.3: Edmund. On discovering his half-brother Edgar.
-.. [#] Hamlet 3.1: Hamlet. What is beyond death.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet. What is beyond death.
 .. [#] A Midsummer Night's Dream 3.2: Helena. The non-dual nature of Nirvana.
 .. [#] Love's Labour Lost: 4.3. He speaks of women's eyes.
-.. [#] A Midsummer Night's Dream 2.1: Fairy.
+.. [#] A Midsummer Night's Dream 2.1: Fairy. 
 .. [#] The Tempest 5.1: Prospero. Hands that release him from his bonds.
-.. [#] A Midsummer Night's Dream 2.1: Fairy.
+.. [#] A Midsummer Night's Dream 2.1: Fairy. The cowslips are protectors of the fairy queen (Mother Nature.) With care the Earth becomes a refuge for all living beings.
 .. [#] King Lear 5.3: King Lear. He dreams of spending his days with his daughter Cordelia, assured of her true filial piety, in a prison.
 .. [#] The Merchant of Venice 2.7.
-.. [#] King Lear 1.1: King Lear. He is caught in the wrong view that his daughter Cordelia is not grateful to him. Kent, knowing her faithfulness, tries to intervene.
+.. [#] King Lear 1.1: Kent. King Lear is caught in the wrong view that his daughter Cordelia is not grateful to him. Kent, knowing her faithfulness, tries to intervene.
 .. [#] Othello 3.3: Othello. Iago plants false seeds in Othello of his wife's unfaithfulness. Othello says he will not live in jealousy. 
 .. [#] The Merchant of Venice 4.1: Portia. Compassion frees us from the bonds of jealousy, and it is not difficult at all.
 .. [#] Sonnet 8. Afflictions cloud and distort our perceptions, yet the wonders of life that are within and around us.
@@ -666,17 +661,17 @@ Shakespeare Oracle Verses
 .. [#] The Tempest 5.1: Prospero. He has compassion on those who, at Caliban's instigation, conspired to kill him.
 .. [#] Romeo and Juliet 2.3: Friar Laurence. He speaks of "herbs, plants, stones, and their true qualities."
 .. [#] Romeo and Juliet 1.4: Mercutio. This follows Romeo's interruption on his depiction of Queen Mab, who tempts men and women with desires in their sleep.
-.. [#] Hamlet 2.2: Hamlet. In conversation with Guildenstern he sees Denmark as a prison, but recognizes that this it the product of his own thinking.
+.. [#] Hamlet, Prince of Denmark 2.2: Hamlet. In conversation with Guildenstern he sees Denmark as a prison, but recognizes that this it the product of his own thinking.
 .. [#] Romeo and Juliet 2.2: Juliet. She sees the illusory nature of the world of name and form.
 .. [#] The Tempest 5.1: Prospero.
 .. [#] The Merchant of Venice 2.6: Jessica.
-.. [#] Twelfth Night 2.3: Clown.
-.. [#] Twelfth Night 2.3: Clown.
+.. [#] Twelfth Night 2.3: Feste.
+.. [#] Twelfth Night 2.3: Feste.
 .. [#] Sonnet 18.
 .. [#] Twelfth Night 1.3: Sir Toby Belch.
 .. [#] The Tempest 1.2: Prospero.
 .. [#] King Lear 4.1: Gloucester.
-.. [#] Hamlet 5.2: Hamlet.
+.. [#] Hamlet, Prince of Denmark 5.2: Hamlet.
 .. [#] King Lear 4.1: Gloucester.
 .. [#] Sonnet 4.
 .. [#] The Tempest 3.1: Ferdinand.
@@ -685,13 +680,13 @@ Shakespeare Oracle Verses
 .. [#] Richard III 5.5: Richmond.
 .. [#] The Tempest Epilogue: Prospero.
 .. [#] King Lear 2.4: Fool. He remains true to his master, King Lear.
-.. [#] King Lear 2.4: Fool. As above.
+.. [#] King Lear 2.4: Fool. As above. "Pardie" means "certainly" or "indeed."
 .. [#] A Midsummer Night's Dream 2.1: Fairy.
 .. [#] The Tempest 2.1: Ariel.
 .. [#] A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the world at night.
 .. [#] The Merchant of Venice 4.1: Portia. The light of the moon is the light of compassion, lighting the moon and the earth below.
 .. [#] Sonnet 1. I have arrived, I am home.
-.. [#] Hamlet 3.1: Hamlet.
+.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] The Tempest 1.2: Miranda.
 .. [#] The Tempest 3.2: Caliban.
 .. [#] The Merchant of Venice 3.2: Bassanio. 
@@ -699,4 +694,3 @@ Shakespeare Oracle Verses
 .. [#] Twelfth Night 1.5: Viola.
 .. [#] Sonnet 10.
 .. [#] Sonnet 11.
-.. [#] King Lear 1.1: King Lear. To his daughter Cordelia.
