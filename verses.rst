@@ -28,8 +28,7 @@ Shakespeare Oracle Verses
 #.
 
     | Grant, if thou wilt, thou art beloved of many, [#]_
-    | And pray, and sing, and tell old tales, and laugh
-    | At gilded butterflies. [#]_
+    | Both in your form and nobleness of mind. [#]_
     
 #.
 
@@ -53,8 +52,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Seems, madam! nay it is; I know not 'seems.' [#]_
-    | All the world's a stage. [#]_ 
+    | Hourly joys be still upon you! [#]_
+    | And frame your mind to mirth and merriment. [#]_ 
 
 #.
 
@@ -88,9 +87,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | You have often 
-    | Begun to tell me what I am, but stopp'd [#]_
-    | Conceal me what I am, and be my aid. [#]_
+    | Sermons in stones, and good in everything. [#]_
+    | And therefore sit you down in gentleness. [#]_
     
 #.
 
@@ -107,8 +105,8 @@ Shakespeare Oracle Verses
     
 #.
 
-    | To give away yourself, keeps yourself still,
-    | And you must live, drawn by your own sweet skill. [#]_
+    | To give away yourself, keeps yourself still, [#]_
+    | Make me a willow cabin at your gate. [#]_
 
 #.
 
@@ -137,8 +135,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | No traveller returns, puzzles the will [#]_
-    | If it be not to come, it will be now. [#]_
+    | And manifest experience had collected [#]_
+    | Of drops that sacred pity hath engend'red. [#]_
 
 #.
 
@@ -184,13 +182,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Misery acquaints a man with strange bed-fellows [#]_
-    | Which are the children of an idle brain. [#]_
+    | As there is sense in truth and truth in virtue, [#]_
+    | Joy, gentle friends, joy and fresh days of love
+    | Accompany your hearts! [#]_
 
 #.
 
     | For who would bear the whips and scorns of time, [#]_
-    | That show, contain and nourish all the world. [#]_
+    | And kiss the lips of unacquainted change? [#]_
 
 #.
 
@@ -222,8 +221,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | There's no harm done. [#]_
-    | Speak what we feel, not what we ought to say. [#]_
+    | And fearless minds climb soonest unto crowns [#]_
+    | That show, contain and nourish all the world. [#]_
 
 #.
 
@@ -233,12 +232,12 @@ Shakespeare Oracle Verses
 #.
 
     | And thus the native hue of resolution [#]_
-    | Strikes where it doth love. [#]_
+    | Lies rich in virtue and unmingled. [#]_
 
 #.
 
-    | Gentles, do not reprehend: [#]_ nothing but to show you
-    | How a king may go a progress through the guts of a beggar. [#]_
+    | Happiness courts thee in her best array [#]_ 
+    | And joy comes well in such a needy time. [#]_
 
 #.
 
@@ -272,8 +271,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Let Hercules himself do what he may, [#]_
-    | If you pardon, we will mend. [#]_
+    | I put you to the use of your own virtues. [#]_
+    | All things are ready, if our minds be so. [#]_
 
 #.
 
@@ -282,14 +281,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And every fair from fair sometime declines,  [#]_
-    | So we grow together, [#]_ thorough bush, thorough brier. [#]_
+    | Let gentleness my strong enforcement be [#]_
+    | To take a new acquaintance of thy mind. [#]_
 
 #.
 
     | To take arms against a sea of troubles,
     | And by opposing end them? [#]_
-    | We will unite the white rose and the red. [#]_
+    | Let it not enter in your mind of love. [#]_
 
 #.
 
@@ -335,7 +334,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | My spirits, as in a dream, are all bound up. [#]_
+    | The constancy and virtue of your love— [#]_
     | Diffusest honey-drops, refreshing showers. [#]_
 
 #.
@@ -345,8 +344,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | The undiscover'd country from whose bourn no traveller returns, [#]_
-    | Two lovely berries moulded on one stem. [#]_
+    | But how is it that this lives in thy mind, [#]_
+    | The undiscover'd country from whose bourn no traveller returns? [#]_
 
 #.
 
@@ -406,8 +405,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | I'll teach you how to flow. [#]_
-    | O, if you but knew how you the purpose cherish. [#]_
+    | O, if you but knew how you the purpose cherish! [#]_
+    | If all were minded so, the times should cease. [#]_
 
 #.
 
@@ -421,8 +420,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | But thy eternal summer shall not fade [#]_
-    | Is it a world to hide virtues in? [#]_
+    | And the moon changes even as your mind, [#]_
+    | But thy eternal summer shall not fade. [#]_
 
 #.
 
@@ -431,13 +430,14 @@ Shakespeare Oracle Verses
 
 #.
 
-   | I stumbled when I saw: [#]_ If it be now, 'tis not to come; [#]_
-   | Our means secure us, and our mere defects prove our commodities. [#]_
+    | Continue still in this so good a mind, [#]_
+    | Wherein it finds a joy above the rest. [#]_
 
 #.
 
-    | As painfully to pore upon a book to seek the light of truth, [#]_
-    | out of this nettle, danger, we pluck this flower, safety. [#]_
+    | To forswear the full stream of the world
+    | and to live in a nook merely monastic; [#]_
+    | And by my body's action teach my mind. [#]_
 
 #.
 
@@ -452,8 +452,8 @@ Shakespeare Oracle Verses
  
 #.
 
+    | As it is a spare life, look you, it fits my humour well; [#]_
     | With smiling plenty, and fair prosperous days! [#]_
-    | What doth gravity out of his bed at midnight? [#]_
 
 #.
 
@@ -468,7 +468,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And now let's go hand in hand, not one before another,
+    | And now let's go hand in hand, not one before another, [#]_
     | Swifter than the moon's sphere. [#]_
 
 #.
@@ -482,7 +482,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And, like bright metal on a sullen ground, [#]_
+    | And as the morning steals upon the night, [#]_
     | Consideration like an angel came. [#]_
 
 #.
@@ -497,13 +497,13 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And as the morning steals upon the night, [#]_
-    | Make me a willow cabin at your gate. [#]_
+    | Roses have thorns, and silver fountains mud, [#]_
+    | I would you would make use of that good wisdom. [#]_
 
 #.
 
     | Make the babbling gossip of the air cry out: [#]_
-    | There is occasions and causes why and wherefore in all things. [#]_
+    | There are occasions and causes why and wherefore in all things. [#]_
 
 #.
 
@@ -512,15 +512,13 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Halloo your name to the reverberate hills [#]_
-    | And deeper than did ever plummet sound I'll drown my book. [#]_ 
+    | For virtue and true beauty of the soul, [#]_
+    | Halloo your name to the reverberate hills! [#]_ 
 
 #.
 
-    | If of life you keep a care,
-    | Shake off slumber, and beware. [#]_
-    | You rub the sore,
-    | When you should bring the plaster. [#]_
+    | But we in silence hold this virtue well: [#]_
+    | The amity that wisdom knits not, folly may easily untie. [#]_
 
 #.
 
@@ -533,19 +531,19 @@ Shakespeare Oracle Verses
     | To pluck bright honour from the pale-fac'd moon. [#]_
 
 #.
-    | Their rising senses begin to chase
-    | The ignorant fumes that mantle their clearer reason. [#]_
-    | It is the quality o' th' climate. [#]_
+    | My crown is call'd content;
+    | A crown it is that seldom kings enjoy. [#]_
+    | Silence bestows that virtue on it. [#]_
 
 #.
 
-    | O spirit of love, how quick and fresh art thou! [#]_
-    | Few in millions can speak like us. [#]_
+    | Time travels in divers paces with divers persons, [#]_
+    | And, since I saw thee, th' affliction of my mind amends. [#]_
 
 #.
 
-    | While you live, tell truth and shame the devil! [#]_
-    | Strive mightily, but eat and drink as friends. [#]_
+    | When wheat is green, when hawthorn buds appear, [#]_
+    | These vacant leaves thy mind's imprint will bear. [#]_
 
 #.
 
@@ -554,15 +552,166 @@ Shakespeare Oracle Verses
 
 #.
 
-    | He weeds the corn, and still lets grow the weeding. [#]_
-    | In brief, sir, study what you most affect. [#]_
+    | This bud of love, by summer's ripening breath, [#]_
+    | Was it not to refresh the mind of man? [#]_
 
 #.
 
     | So shaken as we are, so wan with care, [#]_
     | Awake, dear heart, awake; thou hast slept well; Awake. [#]_
 
+#.
 
+    | Enforce attention like deep harmony. [#]_
+    | You shall find your safety manifested. [#]_
+
+#.
+
+    | Hath not in nature's mystery more science [#]_
+    | To make the coming hour o'erflow with joy? [#]_
+
+#.
+
+    | How hard it is to hide the sparks of nature! [#]_
+    | Virtue is bold, and goodness never fearful. [#]_
+
+#.
+
+    | I will believe thou hast a mind that suits [#]_
+    | And may enjoy such quiet walks as these. [#]_
+
+#.
+
+    | Who doth ambition shun,
+    | And loves to live i' th' sun, [#]_
+    | He finds the joys of heaven here on earth. [#]_
+
+#.
+
+    | Enjoy thy plainness;
+    | It nothing ill becomes thee. [#]_
+    | For 'tis the mind that makes the body rich. [#]_
+
+#.
+
+    | Crowning the present, doubting of the rest? [#]_
+    | Keep unshak'd that temple, thy fair mind. [#]_
+
+#.
+
+    | Unlooked for joy in that I honour most; [#]_
+    | Your bounty, virtue, fair humility. [#]_
+
+#.
+
+    | Divert strong minds to the course of alt'ring things: [#]_
+    | Where words are scarce, they are seldom spent in vain. [#]_
+
+#.
+
+    | For virtue's office never breaks men's troth, [#]_
+    | Nor hath Love's mind of any judgment taste. [#]_
+
+#.
+
+    | As Nature was in making graces dear, [#]_
+    | Then happy I that love and am beloved. [#]_
+
+#.
+
+    | You bear a gentle mind, and heav'nly blessings
+    | Follow such creatures. [#]_
+    | Steel thy fearful thoughts and change misdoubt to resolution. [#]_
+
+#.
+
+    | Do not infest your mind with beating on
+    | The strangeness of this business; [#]_
+    | It is the purpose that makes strong the vow. [#]_
+
+#.
+
+    | A turn or two I'll walk to still my beating mind. [#]_
+    | My crown is in my heart, not on my head. [#]_
+
+#.
+
+    | That love which virtue begs and virtue grants [#]_
+    | Is true of mind and made of no such baseness. [#]_
+
+#.
+
+    | Your patience and your virtue well deserves it. [#]_
+    | That every eye which in this forest looks
+    | Shall see thy virtue witness'd every where. [#]_
+
+#.
+
+    | Cease, cease these jars and rest your minds in peace; [#]_
+    | And take thou my oblation, poor but free. [#]_
+
+#.
+
+    | To make you understand this in a manifested effect, [#]_
+    | Now you are heir, therefore enjoy it now. [#]_
+
+#.
+
+    | The purest spring is not so free from mud; [#]_
+    | It is the show and seal of nature's truth. [#]_
+
+#.
+
+    | Comets, importing change of times and states, [#]_
+    | O infinite virtue, com'st thou smiling from
+    | The world's great snare uncaught? [#]_
+
+#.
+
+    | The very virtue of compassion in thee, [#]_
+    | Shall change all griefs and quarrels into love. [#]_
+
+#.
+
+    | You see how all conditions, how all minds
+    | Tender down their services. [#]_
+    | Silence is the perfectest herald of joy. [#]_
+
+#.
+
+    | All of one nature, of one substance bred, [#]_
+    | When inward joy enforc'd my heart to smile! [#]_
+
+#.
+
+    | Who alone suffers suffers most i' th' mind, [#]_
+    | Then music with her silver sound
+    | With speedy help doth lend redress. [#]_
+
+#.
+
+    | An odorous chaplet of sweet summer buds [#]_
+    | Whereof the root was fix'd in virtue's ground. [#]_
+
+#.
+
+    | One feast, one house, one mutual happiness! [#]_
+    | With profits of the mind, study and fast. [#]_
+
+#.
+
+    | Sweet love renew thy force, be it not said [#]_
+    |  [#]_
+
+#.
+
+    |  [#]_
+    |  [#]_
+
+#.
+
+    |  [#]_
+    |  [#]_
 .. rubric:: Footnotes
 
 .. [#] The Tempest 1.2: Ariel.
@@ -574,7 +723,7 @@ Shakespeare Oracle Verses
 .. [#] Love's Labour Lost 1.1: Berowne.
 .. [#] The Tempest, Epilogue: Prospero.
 .. [#] Sonnet 10.
-.. [#] King Lear 5.3: King Lear. He depicts a peaceful life together with his daughter Cordelia, with whom he has reconciled.
+.. [#] Richard III 3.7: Buckingham
 .. [#] The Tempest Epilogue: Prospero. "Charms" here means "spells" or "enchantments."
 .. [#] Romeo and Juliet 1.4: Mercutio. "I talk of dreams."
 .. [#] Sonnet 11. "She" here is Nature.
@@ -583,8 +732,8 @@ Shakespeare Oracle Verses
 .. [#] Twelfth Night 1.2: Captain. He reassures Viola that her brother may have saved himself from drowning.
 .. [#] Sonnet 18. Inclement weather precedes summer.
 .. [#] King Lear 5.3: King Lear. He vows to begin anew with his daughter Cordelia for having judged her wrongly.
-.. [#] Hamlet, Prince of Denmark 1.2: Hamlet. Reminded by his mother that "All that lives must die," Hamlet explains why he is so particular in mourning his father's death.
-.. [#] As You Like It 2.7: Jaques. Manifestation only.
+.. [#] The Tempest 4.1: Juno
+.. [#] The Merchant of Venice 1.2: Messenger
 .. [#] A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the world at night.
 .. [#] The Tempest 5.1: Miranda. She wonders at Alonso's retinue upon his reunion with Ferdinand, after being raised by Prospero apart from humanity. 
 .. [#] Sonnet 7. The sun rising.
@@ -597,13 +746,14 @@ Shakespeare Oracle Verses
 .. [#] A Midsummer Night's Dream 2.1: Helena. She professes the steadfastness of her love for Demetrius. 
 .. [#] Sonnet 1.
 .. [#] Twelfth Night 1.3: Sir Toby Belch. He feels his niece Olivia should be free of the sorrow caused by her brother's death.
-.. [#] The Tempest 1.2: Miranda. She wishes Prospero to tell her who she is.
-.. [#] Twelfth Night 2.3: Feste.
+.. [#] As You Like It 2.1: Duke Senior
+.. [#] As You Like It 2.7: Duke Senior
 .. [#] The Tempest 2.1: Antonio.
 .. [#] Sonnet 18. For "thou ow'st" read "you own," meaning that fair which is yours.
 .. [#] The Tempest 1.2: Prospero. He asks Miranda to see what she remembers of her past.
 .. [#] Twelfth Night 1.1: Duke Orsino. He sees the fleeting nature of romantic love.
 .. [#] Sonnet 16.
+.. [#] Twelfth Night 1.5: Viola
 .. [#] A Midsummer Night's Dream 2.1: Fairy. He describes the spots on cowslips.
 .. [#] Love's Labour Lost: 4.3. Prometheus stole fire back from Zeus and gave it to mortals.
 .. [#] King Lear 5.2: Edgar. He speaks these lines to Gloucester after learning that Cordelia has lost the battle in order to rouse him. No coming, no going. Present moment.
@@ -614,8 +764,8 @@ Shakespeare Oracle Verses
 .. [#] Henry the Fourth, Part 2 1.1: Northumberland.
 .. [#] King Lear 4.6: King Lear. To the blinded Gloucester.
 .. [#] King Lear 4.6: Edgar. To Gloucester.
-.. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
-.. [#] Hamlet, Prince of Denmark 5.2: Hamlet.
+.. [#] All's Well That Ends Well 1.3: Helena.
+.. [#] As You Like It 2.7: Duke Senior.
 .. [#] The Tempest 5.1: Miranda. On seeing her betrothed Ferdinand's father Alonso and his retinue.
 .. [#] The Tempest 5.1: Ariel. On learning he will soon be freed from his service to Prospero.
 .. [#] The Tempest 4.1: Prospero. Explaining his magic arts to Ferdinand.
@@ -632,10 +782,10 @@ Shakespeare Oracle Verses
 .. [#] Henry IV, Part 1 2.4: Falstaff.
 .. [#] Twelfth Night 1.1: Valentine. To Duke Orsino on Olivia's mourning of her brother's death.
 .. [#] Twelfth Night 3.4: Antonio.
-.. [#] The Tempest 2.2: Trinculo. Taking refuge from a storm, he shelters himself under Caliban's cover.
-.. [#] Romeo and Juliet 1.4: Mercutio. Speaking of dreams of desire.
+.. [#] Measure For Measure 5.1: Mariana.
+.. [#] A Midsummer Night's Dream 5.1: Theseus.
 .. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
-.. [#] Love's Labour Lost 4.3: Biron.
+.. [#] King John 3.4: Pandulph.
 .. [#] The Merchant of Venice 2.7: Morocco.
 .. [#] Twelfth Night 1.3: Sir Toby Belch.
 .. [#] Sonnet 18.
@@ -646,14 +796,14 @@ Shakespeare Oracle Verses
 .. [#] The Tempest 4.1: Prospero. What becomes of his conjured spirits.
 .. [#] Romeo and Juliet 2.2: Juliet. Her response to Romeo's avowals.
 .. [#] Hamlet, Prince of Denmark 5.2: Hamlet. Before dueling with Laertes.
-.. [#] The Tempest 1.2: Prospero. Reassuring Miranda.
-.. [#] King Lear 5.3: Albany. Closing words. A reference to the wrong perceptions that estranged Cordelia from her father.
+.. [#] Henry VI, Part III 4.7: Gloucester. 
+.. [#] Love's Labour Lost 4.3: Biron. 
 .. [#] Twelfth Night 1.2: Viola.
 .. [#] Hamlet, Prince of Denmark 1.2: Hamlet. Interpretation: A disguise or a self only leads to weariness.
 .. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
-.. [#] Othello 5.2: Othello. Manas loves what it finds in store consciousness.
-.. [#] A Midsummer Night's Dream 5.1: Puck.
-.. [#] Hamlet, Prince of Denmark 4.3: Hamlet. He demonstrates how a worm that eats of a dead king may be used to fish by a beggar, who then eats of that fish. Interbeing of eaten and eater.
+.. [#] Troilus and Cressida 1.3: Agamemnon.
+.. [#] Romeo and Juliet 3.3: Friar John.
+.. [#] Romeo and Juliet 3.5: Juliet.
 .. [#] Sonnet 4. 
 .. [#] King Lear 1.1: King Lear. Despite Cordelia's honesty, Lear does not perceive her faithfulness to him. These verses incite us to engage with truth as a test of faith, leaving behind the dower of possessions.
 .. [#] Love's Labour Lost 1.1: Berowne.
@@ -666,15 +816,14 @@ Shakespeare Oracle Verses
 .. [#] Sonnet 11. Touching impermanence we get wisdom, and our love increases.
 .. [#] A Midsummer Night's Dream 2.1: Fairy.
 .. [#] The Merchant of Venice 4.1: Portia. On mercy (compassion).
-.. [#] Hamlet, Prince of Denmark 5.1: Hamlet. Hercules was given numerous seemingly impossible tasks to accomplish, which he did, through skill and strength.
-.. [#] A Midsummer Night's Dream 5.1: Puck. The power make to pardon and make amends exceeds that of strength and skill.
+.. [#] All's Well That Ends Well 5.1: Helena.
+.. [#] Henry V 4.3: King Henry
 .. [#] Sonnet 16.
 .. [#] Sonnet 13.
-.. [#] Sonnet 18.
-.. [#] A Midsummer Night's Dream 3.2: Helena.
-.. [#] A Midsummer Night's Dream 2.1: Fairy. Read "thorough" as "through."
+.. [#] As You Like It 2.7: Orlando
+.. [#] Sonnet 77.
 .. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
-.. [#] Richard III 5.5: Richmond. Brotherhood and peace to succeed strife.
+.. [#] Merchant of Venice 2.8: Salerio.
 .. [#] Twelfth Night 2.4: Duke Orsino.
 .. [#] King Lear 3.4: King Lear. 
 .. [#] The Tempest 4.1: Ceres.
@@ -692,12 +841,12 @@ Shakespeare Oracle Verses
 .. [#] Sonnet 18. The insight of impermanence gives us power over our lives.
 .. [#] Henry IV, Part 1 4.1: Vernon.
 .. [#] The Tempest, 5.1: Prospero.
-.. [#] The Tempest 1.2: Ferdinand. He is drawn by Miranda but bound by the charm of Prospero.
-.. [#] The Tempest 4.1: Ceres. Free from thinking our mind is unbound.
+.. [#] Sonnet 117
+.. [#] The Tempest 4.1: Ceres.
 .. [#] Sonnet 5. Time here is impermanence.
 .. [#] King Lear 5.3: Edmund. On discovering his half-brother Edgar.
+.. [#] The Tempest 1.2: Prospero
 .. [#] Hamlet, Prince of Denmark 3.1: Hamlet. What is beyond death.
-.. [#] A Midsummer Night's Dream 3.2: Helena. The non-dual nature of Nirvana.
 .. [#] Love's Labour Lost: 4.3. He speaks of women's eyes.
 .. [#] A Midsummer Night's Dream 2.1: Fairy. 
 .. [#] The Tempest, Epilogue: Prospero.
@@ -720,69 +869,121 @@ Shakespeare Oracle Verses
 .. [#] Hamlet, Prince of Denmark 2.2: Hamlet. In conversation with Guildenstern he sees Denmark as a prison, but recognizes that this it the product of his own thinking.
 .. [#] Romeo and Juliet 2.2: Juliet. She sees the illusory nature of the world of name and form.
 .. [#] Twelfth Night 2.4: Orsino.
-.. [#] The Tempest 5.1: Prospero.
 .. [#] The Tempest, Epilogue: Prospero.
+.. [#] Sonnet 11.
 .. [#] Twelfth Night 2.3: Feste.
 .. [#] Sonnet 4.
 .. [#] Twelfth Night 2.3: Feste.
 .. [#] The Tempest 2.1: Antonio.
 .. [#] Twelfth Night 2.3: Feste.
+.. [#] The Taming of the Shrew 4.5: Katherina.
 .. [#] Sonnet 18.
-.. [#] Twelfth Night 1.3: Sir Toby Belch.
 .. [#] The Tempest 1.2: Prospero.
 .. [#] Henry IV, Part 1 2.4: Falstaff.
-.. [#] King Lear 4.1: Gloucester.
-.. [#] Hamlet, Prince of Denmark 5.2: Hamlet.
-.. [#] King Lear 4.1: Gloucester.
-.. [#] Sonnet 4.
+.. [#] Henry VI, Part II 4.9: King Henry.
+.. [#] Sonnet 91.
+.. [#] As You Like It 3.2: Rosalind.
+.. [#] Coriolanus 3.2: Coriolanus.
 .. [#] Henry VI, Part 1: Alençon.
 .. [#] The Tempest 1.2: Prospero.
-.. [#] Henry VI, Part 2 3.1: Suffolk.
-.. [#] Henry VI, Part 2 3.2: King Henry.
-.. [#] Henry IV, Part 1 1.2: Prince Henry.
-.. [#] Henry V 1.1: Archbishop of Canterbury.
+.. [#] The Tempest 5.1: Prospero.
+.. [#] The Tempest, Epilogue: Prospero.
+.. [#] As You Like It 3.2: Touchstone.
+.. [#] Richard III 5.5: Richmond.
 .. [#] Love's Labour Lost 1.1: King of Navarre.
 .. [#] Henry IV, Part 1 4.1: Hotspur.
 .. [#] King Lear 2.4: Fool.
 .. [#] Twelfth Night 1.1: Orsino.
-.. [#] Comedy of Errors 5.1: Ephesus.
+.. [#] Comedy of Errors 5.1: Dromio of Ephesus.
 .. [#] A Midsummer Night's Dream 2.1: Fairy.
 .. [#] Twelfth Night 2.4: Viola.
 .. [#] The Tempest 2.1: Ariel.
 .. [#] Twelfth Night 2.3: Feste.
 .. [#] A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the world at night.
 .. [#] The Merchant of Venice 4.1: Portia. The light of the moon is the light of compassion, lighting the moon and the earth below.
-.. [#] The Tempest 2.1: Antonio.
+.. [#] The Tempest 5.1: Prospero.
 .. [#] The Tempest 2.1: Antonio.
 .. [#] Hamlet, Prince of Denmark 3.1: Hamlet.
 .. [#] The Tempest 1.2: Miranda.
 .. [#] The Tempest 3.2: Caliban.
 .. [#] The Merchant of Venice 3.2: Bassanio. 
-.. [#] The Tempest 5.1: Prospero.
+.. [#] Sonnet 35
+.. [#] King Lear 1.4: Goneril.
 .. [#] Twelfth Night 1.5: Viola.
-.. [#] Twelfth Night 1.5: Viola.
-.. [#] Henry V 5.1: Fluellen.
+.. [#] Henry V 5.1: Fluellen. "Is" changed to "are".
 .. [#] Sonnet 10.
 .. [#] Sonnet 11.
+.. [#] Henry VIII 4.2: Katharine.
 .. [#] Twelfth Night 1.5: Viola.
-.. [#] The Tempest 5.1: Prospero.
-.. [#] The Tempest 2.1: Ariel.
-.. [#] The Tempest 2.1: Gonzalo.
+.. [#] Troilus and Cressida 4.1: Paris.
+.. [#] Troilus and Cressida 2.3: Ulysses.
 .. [#] Taming of the Shrew 2.1: Petruchio.
-.. [#] Henry IV, Part 1 5.4: Falstaff.
-.. [#] Henry VI, Part 2 3.3: King Henry.
-.. [#] Henry IV, Part 1 1.3: Hotspur.
-.. [#] The Tempest 5.1: Prospero.
-.. [#] The Tempest 2.1: Antonio.
-.. [#] Twelfth Night 1.1: Orsino.
-.. [#] The Tempest 2.1: Gonzalo.
-.. [#] Henry IV, Part 1 3.1: Hotspur.
-.. [#] Taming of the Shrew 1.2: Tranio.
+.. [#] Henry IV, Part I 5.4: Falstaff.
+.. [#] Henry VI, Part II 3.3: King Henry.
+.. [#] Henry IV, Part I 1.3: Hotspur.
+.. [#] Henry VI, Part III 3.1: King Henry.
+.. [#] Merchant of Venice 5.1: Nerissa.
+.. [#] As You Like It 3.2: Rosalind.
+.. [#] The Tempest 5.1: Alonso.
+.. [#] A Midsummer Night's Dream 1.1: Helena.
+.. [#] Sonnet 77.
 .. [#] Comedy of Errors 2.1: Adriana.
 .. [#] The Tempest 1.2: Prospero.
-.. [#] Love's Labour Lost 1.1: Longaville.
-.. [#] Taming of the Shrew 1.1: Tranio.
-.. [#] Henry IV, Part 1 1.1: King Henry.
+.. [#] Romeo and Juliet 2.2: Juliet.
+.. [#] The Taming of the Shrew 3.1: Lucentio.
+.. [#] Henry IV, Part I 1.1: King Henry.
 .. [#] The Tempest 1.2: Prospero.
+.. [#] Richard II 2.1: Gaunt.
+.. [#] Measure For Measure 4.3: Duke.
+.. [#] All's Well That Ends Well 5.3: King.
+.. [#] All's Well That Ends Well 2.4: Parolles.
+.. [#] Cymbeline 3.3: Belarius.
+.. [#] Measure For Measure 3.1: Duke.
+.. [#] Twelfth Night 1.2: Viola.
+.. [#] Henry VI, Part II 4.10: Iden. 
+.. [#] As You Like It 2.5: Song.
+.. [#] Merchant of Venice 3.5: Jessica.
+.. [#] Antony and Cleopatra 2.4: Pompey.
+.. [#] The Taming of the Shrew 4.3: Petruchio.
+.. [#] Sonnet 115.
+.. [#] Cymbeline 2.1: Second Lord.
+.. [#] Sonnet 25.
+.. [#] Richard III 3.7: Buckingham.
+.. [#] Sonnet 115.
+.. [#] Richard II 2.1: Gaunt.
+.. [#] Love's Labour Lost 5.2: Princess of France.
+.. [#] A Midsummer Night's Dream 1.1: Helena.
+.. [#] Love's Labour Lost 2.2: Boyet.
+.. [#] Sonnet 25.
+.. [#] Henry VIII 2.3: Chamberlain.
+.. [#] Henry VI, Part II 3.1: York.
 .. [#] The Tempest 5.1: Prospero.
-.. [#] Taming of the Shrew 2.1: Petruchio.
+.. [#] Troilus and Cressida 5.3: Cassandra.
+.. [#] The Tempest 4.1: Prospero.
+.. [#] Henry VI, Part III 3.1: King Henry.
+.. [#] Henry VI, Part III 3.2: Lady Grey.
+.. [#] Othello 3.4: Desdemona.
+.. [#] As You Like It 5.4: Jaques.
+.. [#] As You Like It 3.2: Orlando.
+.. [#] Henry VI, Part I 1.1: Bedford.
+.. [#] Sonnet 125.
+.. [#] Measure For Measure 4.2: Duke.
+.. [#] Henry VI, Part III 1.2: Edward.
+.. [#] Henry VI, Part II 3.1: Gloucester.
+.. [#] All's Well That Ends Well 1.3: Countess.
+.. [#] Henry VI, Part I 1.1: Bedford.
+.. [#] Antony and Cleopartra 4.8: Cleopatra.
+.. [#] The Tempest 1.2: Prospero.
+.. [#] Henry V 5.2: Queen Isabella
+.. [#] The Life of Timon of Athens 1.1: Poet.
+.. [#] Much Ado About Nothing 2.1: Claudio.
+.. [#] Henry IV, Part I 1.1: King.
+.. [#] Two Gentlemen of Verona 1.2: Julia.
+.. [#] King Lear 3.6: Edgar.
+.. [#] Romeo and Juliet 4.5: Peter.
+.. [#] A Midsummer Night's Dream 2.1: Titania.
+.. [#] Henry VI, Part III 3.3: Warwick.
+.. [#] Two Gentlemen of Verona 5.4: Valentine.
+.. [#] Measure for Measure 1.4: Lucio.
+.. [#] Sonnet 56.
+
