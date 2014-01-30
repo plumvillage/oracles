@@ -1,6 +1,6 @@
-**************************
-Shakespeare Oracle Verses
-**************************
+*******************
+Shakespeare Oracles
+*******************
 
 #.
 
@@ -22,8 +22,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | So, ere you find where light in darkness lies,
-    | Gentle breath of yours my sails must fill.
+    | I saw him beat the surges under him, 
+    | And ride upon their backs; he trod the water.
 
 #.
 
@@ -73,8 +73,10 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Their eyes do offices of truth, their words are natural breath, 
-    | all dedicated to closeness and the bettering of my mind.
+    | We make guilty of our
+    | disasters the sun, the moon, and the stars: as
+    | if we were villains by necessity; fools by
+    | heavenly compulsion.
 
 #.
 
@@ -117,8 +119,8 @@ Shakespeare Oracle Verses
     
 #.
 
-    | Men must endure their going hence, even as their coming hither;
-    | I am a fool to weep at what I am glad of.
+    | Men must endure their going hence,
+    | even as their coming hither; ripeness is all.
 
 #.
 
@@ -127,8 +129,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | If music be the food of love, play on,
-    | And let this world no longer be a stage.
+    | She sat like Patience on a monument,
+    | Smiling at grief.
 
 #.
 
@@ -153,9 +155,8 @@ Shakespeare Oracle Verses
     
 #.
 
-    | With the help of your good hands.
-    | All things in common nature should produce
-    | Without sweat or endeavour.
+    | The art of our necessities is strange,
+    | That can make vile things precious.
 
 #.
 
@@ -174,9 +175,9 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And ye that on the sands with printless foot do chase the ebbing Neptune,
-    | O, let me see thee walk. Thou dost not halt.
- 
+    | What a piece of work is a man! how noble in reason!
+    | Space enough have I in such a prison.
+
 #.
 
     | But, like a cloistress, she will veiled walk
@@ -227,8 +228,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Youth's a stuff will not endure.
-    | Out of that no hope what great hope have you!
+    | For such disguise as haply shall become
+    | How weary, stale, flat and unprofitable!
 
 #.
 
@@ -242,13 +243,13 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Nature's bequest gives nothing but doth lend,
+    | Nothing will come of nothing: speak again.
     | Thy truth, then, be thy dower.
 
 #.
 
-    | Study is like the heaven's glorious sun,
-    | Which touch'd the very virtue of compassion in thee.
+    | I have no way, and therefore want no eyes;
+    | To follow still the changes of the moon with fresh suspicions.
 
 #.
 
@@ -315,8 +316,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Gaze where you should, and that will clear your sight,
-    | Enrich the time to come with smooth-fac'd peace.
+    | When sorrows come, they come not single spies
+    | And swear that brightness doth not grace the day.
 
 #.
 
@@ -330,8 +331,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Rise from the ground like feathered Mercury,
-    | Then to the elements be free, and fare thou well!
+    | 'Tis but thy name that is my enemy; it is nor hand, nor foot, 
+    | Nor arm, nor face, nor any other part belonging to a man.
 
 #.
 
@@ -355,13 +356,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Smooth runs the water where the brook is deep.
-    | What stronger breastplate than a heart untainted?
+    | With the help of your good hands
+    | The cowslips tall her pensioners be.
 
 #.
 
-    | Then wisely, good sir, weigh our sorrow with our comfort,
-    | that ebb and flow by the moon.
+    | We'll wear out,
+    | In a wall'd prison, packs and sects of great ones,
+    | That ebb and flow by the moon.
 
 #.
 
@@ -374,8 +376,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | O heaven, O earth, bear witness to this sound,
-    | As full of spirit as the month of May.
+    | Music to hear, why hear'st thou music sadly?
+    | Sweets with sweets war not, joy delights in joy.
 
 #.
 
@@ -386,13 +388,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | With gentle conference, soft and affable.
-    | Let your indulgence set me free.
+    | Yet with my nobler reason 'gainst my fury
+    | Do I take part: the rarer action is
+    | In virtue than in vengeance.
 
 #.
 
-    | Light, seeking light, doth light of light beguile; 
-    | Now let not Nature's hand keep the wild flood confin'd!
+    | For nought so vile that on the earth doth live
+    | But to the earth some special good doth give,
 
 #.
 
@@ -402,22 +405,22 @@ Shakespeare Oracle Verses
 #.
 
     | What's in a name? that which we call a rose
-    | Being once display'd doth fall that very hour.
+    | By any other name would smell as sweet.
 
 #.
 
-    | I'll teach you how to flow.
-    | O, if you but knew how you the purpose cherish.
+    | Gentle breath of yours my sails
+    | Must I hold a candle to my shames?
 
 #.
 
     | What is love? 'tis not hereafter;
-    | And being frank she lends to those are free.
+    | Present mirth hath present laughter.
 
 #.
 
-    | What's to come is still unsure: what's past is prologue, 
-    | Present mirth hath present laughter.
+    | What's to come is still unsure: 
+    | In delay there lies no plenty;
 
 #.
 
@@ -426,8 +429,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | I, thus neglecting worldly ends,
-    | Play out the play.
+    | I, thus neglecting worldly ends, all dedicated
+    | To closeness and the bettering of my mind.
 
 #.
 
@@ -436,45 +439,48 @@ Shakespeare Oracle Verses
 
 #.
 
-    | As painfully to pore upon a book to seek the light of truth,
-    | out of this nettle, danger, we pluck this flower, safety.
+    | Nature's bequest gives nothing but doth lend,
+    | And being frank she lends to those are free.
 
 #.
 
-    | Defer no time, delays have dangerous ends;
-    | Thou shalt be as free as mountain winds.
+    | Some kinds of baseness are nobly undergone
+    | And most poor matters point to rich ends.
 
 #.
 
-    | Understanding begins to swell by prayer,
-    | Which pierces so that it assaults
-    | Mercy itself, and frees all faults.
- 
-#.
-
-    | With smiling plenty, and fair prosperous days!
-    | What doth gravity out of his bed at midnight?
+    | O, I have suffered with those that I saw suffer:
+    | The seeming truth which cunning times put on.
 
 #.
 
-    | Th' endeavour of this present breath may buy
-    | The very lifeblood of our enterprise.
+    | Smile heaven upon this fair conjunction,
+    | But release me from my bands.
+
+#.
+
+    | That sir which serves and seeks for gain,
+    | And follows but for form,
+    | Will pack when it begins to rain,
+    | And leave thee in the storm.
 
 #.
 
     | But I will tarry; the fool will stay,
     | And let the wise man fly:
-    | To pay this debt of love but to a brother.
+    | The knave turns fool that runs away;
+    | The fool no knave, pardie.
 
 #.
 
-    | And now let's go hand in hand, not one before another,
-    | Swifter than the moon's sphere.
+    | Swifter than the moon's sphere;
+    | To dew her orbs upon the green.
 
 #.
 
-    | Smiling at grief, awake, awake!
-    | In delay there lies no plenty.
+    | If of life you keep a care,
+    | Shake off slumber, and beware:
+    | Awake, awake!
 
 #.
     | And then the moon, like to a silver bow
@@ -482,8 +488,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And, like bright metal on a sullen ground,
-    | Consideration like an angel came.
+    | But thou, contracted to thine own bright eyes,
+    | Feed'st thy light'st flame with self-substantial fuel.
 
 #.
 
@@ -497,67 +503,16 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And as the morning steals upon the night,
-    | Make me a willow cabin at your gate.
+    | Make me a willow cabin at your gate,
+    | And call upon my soul within the house.
 
 #.
 
-    | Make the babbling gossip of the air cry out:
-    | There is occasions and causes why and wherefore in all things.
+    | Halloo your name to the reverberate hills
+    | And make the babbling gossip of the air
+    | Cry out.
 
 #.
 
     | Or to thyself at least kind-hearted prove:
     | As fast as thou shalt wane, so fast thou growest.
-
-#.
-
-    | Halloo your name to the reverberate hills
-    | And deeper than did ever plummet sound I'll drown my book. 
-
-#.
-
-    | If of life you keep a care,
-    | Shake off slumber, and beware.
-    | You rub the sore,
-    | When you should bring the plaster.
-
-#.
-
-    | Thy virtues spoke of, and thy beauty sounded, 
-    | The better part of valour is discretion.
-
-#.
-
-    | Draw the curtain close and let us all to meditation,
-    | To pluck bright honour from the pale-fac'd moon.
-
-#.
-    | Their rising senses begin to chase
-    | The ignorant fumes that mantle their clearer reason.
-    | It is the quality o' th' climate.
-
-#.
-
-    | O spirit of love, how quick and fresh art thou!
-    | Few in millions can speak like us.
-
-#.
-
-    | While you live, tell truth and shame the devil!
-    | Strive mightily, but eat and drink as friends.
-
-#.
-
-    | Burd'ned with like weight of pain,
-    | Thou didst smile, infused with a fortitude from heaven.
-
-#.
-
-    | He weeds the corn, and still lets grow the weeding.
-    | In brief, sir, study what you most affect.
-
-#.
-
-    | So shaken as we are, so wan with care,
-    | Awake, dear heart, awake; thou hast slept well; Awake.

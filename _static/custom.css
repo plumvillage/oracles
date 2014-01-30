@@ -1,0 +1,5 @@
+p { color: #333333; line-height: 50%; font-family: "Baskerville"; text-align: justify }
+body { font-size: 190% }
+#line { font-family: "Baskerville" }
+a:link { color: #dc3c01; font-weight: bold; text-decoration: none }
+ol > li { margin-left: 40px; padding: 0 0 70px 10px; font-family: "Baskerville" }
