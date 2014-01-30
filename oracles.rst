@@ -28,8 +28,7 @@ Shakespeare Oracle Verses
 #.
 
     | Grant, if thou wilt, thou art beloved of many,
-    | And pray, and sing, and tell old tales, and laugh
-    | At gilded butterflies.
+    | Both in your form and nobleness of mind.
     
 #.
 
@@ -53,8 +52,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Seems, madam! nay it is; I know not 'seems.'
-    | All the world's a stage. 
+    | Hourly joys be still upon you!
+    | And frame your mind to mirth and merriment. 
 
 #.
 
@@ -88,9 +87,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | You have often 
-    | Begun to tell me what I am, but stopp'd
-    | Conceal me what I am, and be my aid.
+    | Sermons in stones, and good in everything.
+    | And therefore sit you down in gentleness.
     
 #.
 
@@ -108,7 +106,7 @@ Shakespeare Oracle Verses
 #.
 
     | To give away yourself, keeps yourself still,
-    | And you must live, drawn by your own sweet skill.
+    | Make me a willow cabin at your gate.
 
 #.
 
@@ -137,8 +135,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | No traveller returns, puzzles the will
-    | If it be not to come, it will be now.
+    | And manifest experience had collected
+    | Of drops that sacred pity hath engend'red.
 
 #.
 
@@ -184,13 +182,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Misery acquaints a man with strange bed-fellows
-    | Which are the children of an idle brain.
+    | As there is sense in truth and truth in virtue,
+    | Joy, gentle friends, joy and fresh days of love
+    | Accompany your hearts!
 
 #.
 
     | For who would bear the whips and scorns of time,
-    | That show, contain and nourish all the world.
+    | And kiss the lips of unacquainted change?
 
 #.
 
@@ -222,8 +221,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | There's no harm done.
-    | Speak what we feel, not what we ought to say.
+    | And fearless minds climb soonest unto crowns
+    | That show, contain and nourish all the world.
 
 #.
 
@@ -233,12 +232,12 @@ Shakespeare Oracle Verses
 #.
 
     | And thus the native hue of resolution
-    | Strikes where it doth love.
+    | Lies rich in virtue and unmingled.
 
 #.
 
-    | Gentles, do not reprehend: nothing but to show you
-    | How a king may go a progress through the guts of a beggar.
+    | Happiness courts thee in her best array 
+    | And joy comes well in such a needy time.
 
 #.
 
@@ -272,8 +271,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Let Hercules himself do what he may,
-    | If you pardon, we will mend.
+    | I put you to the use of your own virtues.
+    | All things are ready, if our minds be so.
 
 #.
 
@@ -282,14 +281,14 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And every fair from fair sometime declines, 
-    | So we grow together, thorough bush, thorough brier.
+    | Let gentleness my strong enforcement be
+    | To take a new acquaintance of thy mind.
 
 #.
 
     | To take arms against a sea of troubles,
     | And by opposing end them?
-    | We will unite the white rose and the red.
+    | Let it not enter in your mind of love.
 
 #.
 
@@ -335,7 +334,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | My spirits, as in a dream, are all bound up.
+    | The constancy and virtue of your love—
     | Diffusest honey-drops, refreshing showers.
 
 #.
@@ -345,8 +344,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | The undiscover'd country from whose bourn no traveller returns,
-    | Two lovely berries moulded on one stem.
+    | But how is it that this lives in thy mind,
+    | The undiscover'd country from whose bourn no traveller returns?
 
 #.
 
@@ -406,8 +405,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | I'll teach you how to flow.
-    | O, if you but knew how you the purpose cherish.
+    | O, if you but knew how you the purpose cherish!
+    | If all were minded so, the times should cease.
 
 #.
 
@@ -421,8 +420,8 @@ Shakespeare Oracle Verses
 
 #.
 
-    | But thy eternal summer shall not fade
-    | Is it a world to hide virtues in?
+    | And the moon changes even as your mind,
+    | But thy eternal summer shall not fade.
 
 #.
 
@@ -431,13 +430,14 @@ Shakespeare Oracle Verses
 
 #.
 
-   | I stumbled when I saw: If it be now, 'tis not to come;
-   | Our means secure us, and our mere defects prove our commodities.
+    | Continue still in this so good a mind,
+    | Wherein it finds a joy above the rest.
 
 #.
 
-    | As painfully to pore upon a book to seek the light of truth,
-    | out of this nettle, danger, we pluck this flower, safety.
+    | To forswear the full stream of the world
+    | and to live in a nook merely monastic;
+    | And by my body's action teach my mind.
 
 #.
 
@@ -452,8 +452,8 @@ Shakespeare Oracle Verses
  
 #.
 
+    | As it is a spare life, look you, it fits my humour well;
     | With smiling plenty, and fair prosperous days!
-    | What doth gravity out of his bed at midnight?
 
 #.
 
@@ -482,7 +482,7 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And, like bright metal on a sullen ground,
+    | And as the morning steals upon the night,
     | Consideration like an angel came.
 
 #.
@@ -497,13 +497,13 @@ Shakespeare Oracle Verses
 
 #.
 
-    | And as the morning steals upon the night,
-    | Make me a willow cabin at your gate.
+    | Roses have thorns, and silver fountains mud,
+    | I would you would make use of that good wisdom.
 
 #.
 
     | Make the babbling gossip of the air cry out:
-    | There is occasions and causes why and wherefore in all things.
+    | There are occasions and causes why and wherefore in all things.
 
 #.
 
@@ -512,15 +512,13 @@ Shakespeare Oracle Verses
 
 #.
 
-    | Halloo your name to the reverberate hills
-    | And deeper than did ever plummet sound I'll drown my book. 
+    | For virtue and true beauty of the soul,
+    | Halloo your name to the reverberate hills! 
 
 #.
 
-    | If of life you keep a care,
-    | Shake off slumber, and beware.
-    | You rub the sore,
-    | When you should bring the plaster.
+    | But we in silence hold this virtue well:
+    | The amity that wisdom knits not, folly may easily untie.
 
 #.
 
@@ -533,19 +531,19 @@ Shakespeare Oracle Verses
     | To pluck bright honour from the pale-fac'd moon.
 
 #.
-    | Their rising senses begin to chase
-    | The ignorant fumes that mantle their clearer reason.
-    | It is the quality o' th' climate.
+    | My crown is call'd content;
+    | A crown it is that seldom kings enjoy.
+    | Silence bestows that virtue on it.
 
 #.
 
-    | O spirit of love, how quick and fresh art thou!
-    | Few in millions can speak like us.
+    | Time travels in divers paces with divers persons,
+    | And, since I saw thee, th' affliction of my mind amends.
 
 #.
 
-    | While you live, tell truth and shame the devil!
-    | Strive mightily, but eat and drink as friends.
+    | When wheat is green, when hawthorn buds appear,
+    | These vacant leaves thy mind's imprint will bear.
 
 #.
 
@@ -554,10 +552,148 @@ Shakespeare Oracle Verses
 
 #.
 
-    | He weeds the corn, and still lets grow the weeding.
-    | In brief, sir, study what you most affect.
+    | This bud of love, by summer's ripening breath,
+    | Was it not to refresh the mind of man?
 
 #.
 
     | So shaken as we are, so wan with care,
     | Awake, dear heart, awake; thou hast slept well; Awake.
+
+#.
+
+    | Enforce attention like deep harmony.
+    | You shall find your safety manifested.
+
+#.
+
+    | Hath not in nature's mystery more science
+    | To make the coming hour o'erflow with joy?
+
+#.
+
+    | How hard it is to hide the sparks of nature!
+    | Virtue is bold, and goodness never fearful.
+
+#.
+
+    | I will believe thou hast a mind that suits
+    | And may enjoy such quiet walks as these.
+
+#.
+
+    | Who doth ambition shun,
+    | And loves to live i' th' sun,
+    | He finds the joys of heaven here on earth.
+
+#.
+
+    | Enjoy thy plainness;
+    | It nothing ill becomes thee.
+    | For 'tis the mind that makes the body rich.
+
+#.
+
+    | Crowning the present, doubting of the rest?
+    | Keep unshak'd that temple, thy fair mind.
+
+#.
+
+    | Unlooked for joy in that I honour most;
+    | Your bounty, virtue, fair humility.
+
+#.
+
+    | Divert strong minds to the course of alt'ring things:
+    | Where words are scarce, they are seldom spent in vain.
+
+#.
+
+    | For virtue's office never breaks men's troth,
+    | Nor hath Love's mind of any judgment taste.
+
+#.
+
+    | As Nature was in making graces dear,
+    | Then happy I that love and am beloved.
+
+#.
+
+    | You bear a gentle mind, and heav'nly blessings
+    | Follow such creatures.
+    | Steel thy fearful thoughts and change misdoubt to resolution.
+
+#.
+
+    | Do not infest your mind with beating on
+    | The strangeness of this business;
+    | It is the purpose that makes strong the vow.
+
+#.
+
+    | A turn or two I'll walk to still my beating mind.
+    | My crown is in my heart, not on my head.
+
+#.
+
+    | That love which virtue begs and virtue grants
+    | Is true of mind and made of no such baseness.
+
+#.
+
+    | Your patience and your virtue well deserves it.
+    | That every eye which in this forest looks
+    | Shall see thy virtue witness'd every where.
+
+#.
+
+    | Cease, cease these jars and rest your minds in peace;
+    | And take thou my oblation, poor but free.
+
+#.
+
+    | To make you understand this in a manifested effect,
+    | Now you are heir, therefore enjoy it now.
+
+#.
+
+    | The purest spring is not so free from mud;
+    | It is the show and seal of nature's truth.
+
+#.
+
+    | Comets, importing change of times and states,
+    | O infinite virtue, com'st thou smiling from
+    | The world's great snare uncaught?
+
+#.
+
+    | The very virtue of compassion in thee,
+    | Shall change all griefs and quarrels into love.
+
+#.
+
+    | You see how all conditions, how all minds
+    | Tender down their services.
+    | Silence is the perfectest herald of joy.
+
+#.
+
+    | All of one nature, of one substance bred,
+    | When inward joy enforc'd my heart to smile!
+
+#.
+
+    | Who alone suffers suffers most i' th' mind,
+    | Then music with her silver sound
+    | With speedy help doth lend redress.
+
+#.
+
+    | An odorous chaplet of sweet summer buds
+    | Whereof the root was fix'd in virtue's ground.
+
+#.
+
+    | One feast, one house, one mutual happiness!
+    | With profits of the mind, study and fast.
