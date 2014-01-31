@@ -1,3 +1,19 @@
+    #.
+
+    | Sweet love renew thy force, be it not said [#]_
+    .. [#] Sonnet 56.
+    |  [#]_
+
+#.
+
+    |  [#]_
+    |  [#]_
+
+#.
+
+    |  [#]_
+    |  [#]_
+
     And pray, and sing, and tell old tales, and laugh
     At gilded butterflies.
     King Lear 5.3: King Lear. He depicts a peaceful life together with his daughter Cordelia, with whom he has reconciled.

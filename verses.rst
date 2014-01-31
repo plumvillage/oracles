@@ -1,6 +1,6 @@
-**************************
-Shakespeare Oracle Verses
-**************************
+*********************
+SHAKE-SPEARES ORACLES
+*********************
 
 #.
 
@@ -698,20 +698,7 @@ Shakespeare Oracle Verses
     | One feast, one house, one mutual happiness! [#]_
     | With profits of the mind, study and fast. [#]_
 
-#.
 
-    | Sweet love renew thy force, be it not said [#]_
-    |  [#]_
-
-#.
-
-    |  [#]_
-    |  [#]_
-
-#.
-
-    |  [#]_
-    |  [#]_
 .. rubric:: Footnotes
 
 .. [#] The Tempest 1.2: Ariel.
@@ -985,5 +972,3 @@ Shakespeare Oracle Verses
 .. [#] Henry VI, Part III 3.3: Warwick.
 .. [#] Two Gentlemen of Verona 5.4: Valentine.
 .. [#] Measure for Measure 1.4: Lucio.
-.. [#] Sonnet 56.
-
