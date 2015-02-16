@@ -172,6 +172,7 @@ htmlhelp_basename = 'ShakespeareOracledoc'
 latex_elements = {
     'papersize': 'a4',
     'pointsize': '12',
+    'fontpkg': '\usepackage{merriweather}',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
