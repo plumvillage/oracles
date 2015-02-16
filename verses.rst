@@ -711,7 +711,7 @@ SHAKE-SPEARES ORACLES
 #.
 
     | Through the forest I have gone, [#]_
-    | To make some special instanc special-blest. [#]_
+    | To make some special instance special-blest. [#]_
 
 #.
 
@@ -1068,7 +1068,6 @@ SHAKE-SPEARES ORACLES
 .. [#] Henry VIII 2.4: King.
 .. [#] Midsummer Night's Dream 2.2: Puck
 .. [#] Sonnet 52
-.. [#] Henry IV, Part I 2.4: Falstaff
 .. [#] Sonnet 35
 .. [#] Two Gentlemen of Verona 2.7: Julia
 .. [#] As You Like It 3.5: Rosalind
