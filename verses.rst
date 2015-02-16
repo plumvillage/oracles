@@ -698,6 +698,96 @@ SHAKE-SPEARES ORACLES
     | One feast, one house, one mutual happiness! [#]_
     | With profits of the mind, study and fast. [#]_
 
+#.
+
+    | The griefs are ended by seeing the worst [#]_
+    | Then sigh not so, but let them go. [#]_
+
+#.
+
+    | To shun the heaven that leads men to this hell [#]_
+    | The wild sea of my conscience, I did steer. [#]_
+
+#.
+
+    | Through the forest I have gone, [#]_
+    | To make some special instanc special-blest. [#]_
+
+#.
+
+    | Clouds and eclipses stain both moon and sun, [#]_
+    | I'll be as patient as a gentle stream. [#]_
+
+#.      
+
+    | For I must tell you friendly in your ear: [#]_
+    | The forest walks are wide and spacious. [#]_
+
+#.
+
+    | As plays the sun upon the glassy streams, [#]_
+    | Awake the pert and nimble spirit of mirth. [#]_
+
+#.
+
+    | Full merrily the humble-bee doth sing [#]_
+    | 'The more I give to thee, the more I have.' [#]_
+
+#.
+
+    | The sea all water, yet receives rain still, [#]_
+    | God be thank'd, there is no need of me. [#]_
+
+#.
+
+    | Out of this nettle, danger, we pluck this flower, safety [#]_
+    | And make us heirs of all eternity. [#]_
+
+#.
+
+    | That's a valiant flea that dare eat his breakfast on the lip of a lion. [#]_
+    | Whilst I am bound to wonder, I am bound to pity too. [#]_
+
+#.
+
+    | Full many a glorious morning have I seen [#]_
+    | For I impair not beauty being mute. [#]_
+
+#.
+
+    | A little fire is quickly trodden out, [#]_
+    | All losses are restored, and sorrows end. [#]_
+
+#.
+
+    | My friends were poor, but honest; so's my love. [#]_
+    | In life's uncertain voyage, I will some kindness do them. [#]_
+
+#.
+
+    | Let's take the instant by the forward top [#]_
+    | And do whate'er thou wilt swift-footed Time. [#]_
+
+#.
+
+    | One minute, nay, one quiet breath of rest. [#]_
+    | A kingdom for it was too small a bound. [#]_
+
+#.
+
+    | With sun and moon, with earth and sea's rich gems [#]_
+    | Buy terms divine in selling hours of dross. [#]_
+
+#.
+
+    | Sweet are the uses of adversity, [#]_
+    | Over whose acres walk'd those blessed feet. [#]_
+
+#.
+
+    | Men of great worth resorted to this forest, [#]_
+    | As many fresh streams meet in one salt sea. [#]_
+
 
 .. rubric:: Footnotes
 
@@ -962,7 +1052,7 @@ SHAKE-SPEARES ORACLES
 .. [#] Antony and Cleopartra 4.8: Cleopatra.
 .. [#] The Tempest 1.2: Prospero.
 .. [#] Henry V 5.2: Queen Isabella
-.. [#] The Life of Timon of Athens 1.1: Poet.
+.. [#] Timon of Athens 1.1: Poet.
 .. [#] Much Ado About Nothing 2.1: Claudio.
 .. [#] Henry IV, Part I 1.1: King.
 .. [#] Two Gentlemen of Verona 1.2: Julia.
@@ -972,3 +1062,40 @@ SHAKE-SPEARES ORACLES
 .. [#] Henry VI, Part III 3.3: Warwick.
 .. [#] Two Gentlemen of Verona 5.4: Valentine.
 .. [#] Measure for Measure 1.4: Lucio.
+.. [#] Othello 1.3: Duke.
+.. [#] Much Ado About Nothing 2.3: Balthasar.
+.. [#] Sonnet 129
+.. [#] Henry VIII 2.4: King.
+.. [#] Midsummer Night's Dream 2.2: Puck
+.. [#] Sonnet 52
+.. [#] Henry IV, Part I 2.4: Falstaff
+.. [#] Sonnet 35
+.. [#] Two Gentlemen of Verona 2.7: Julia
+.. [#] As You Like It 3.5: Rosalind
+.. [#] Titus Andronicus 2.1: Aaron
+.. [#] Henry V 1.2: Suffolk
+.. [#] Midsummer Night's Dream 1.1: Theseus
+.. [#] Troilus and Cressida 5.10: Pandarus
+.. [#] Romeo and Juliet 2.2: Juliet
+.. [#] Sonnet 135
+.. [#] Richard III 3.7: Gloucester
+.. [#] Henry IV, Part I 2.3: Hotspur
+.. [#] Love's Labour Lost 1.1: King of Nevarre
+.. [#] Henry V 3.7: Orleans
+.. [#] Cymbeline 1.6: Iachimo
+.. [#] Sonnet 33
+.. [#] Sonnet 83
+.. [#] Henry VI, Part III 4.8: Clarence
+.. [#] Sonnet 30
+.. [#] All's Well That Ends Well 1.3: Helena
+.. [#] Timon of Athens 5.1: Timon
+.. [#] All's Well That Ends Well 5.3: King
+.. [#] Sonnet 19
+.. [#] King John 3.4: Pandulph
+.. [#] Henry IV, Part I 5.4: Prince Henry
+.. [#] Sonnet 21
+.. [#] Sonnet 146
+.. [#] As You Like It 2.1: Duke Senior
+.. [#] Henry IV, Part I 1.1: King Henry IV
+.. [#] As You Like It 5.4: Jaques de Boys
+.. [#] Henry V 1.2: Canterbury
