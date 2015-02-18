@@ -1,0 +1,771 @@
+#SHAKE-SPEARES ORACLES
+ 
+#. 
+
+    | To swim, to dive into the fire, to ride on the curled clouds,
+    | Whose speechless song being many, seems one.
+
+#. 
+
+    | Time doth transfix the flourish set on youth,
+    | Which bounteous gift thou shouldst in bounty cherish.
+
+#. 
+
+    | Be collected; no more amazement. Tell your piteous heart:
+    | Thou art thy mother's glass, and she in thee.
+
+#. 
+
+    | So, ere you find where light in darkness lies,
+    | Gentle breath of yours my sails must fill.
+
+#. 
+
+    | Grant, if thou wilt, thou art beloved of many,
+    | Both in your form and nobleness of mind.
+
+#. 
+
+    | Now my charms are all o'erthrown,
+    | Begot of nothing but vain fantasy.
+
+#. 
+
+    | Look, whom she best endow'd she gave thee more;
+    | Our fancies are more giddy and unfirm.
+
+#. 
+
+    | Sap checked with frost and lusty leaves quite gone,
+    | Courage and hope both teaching him the practice.
+
+#. 
+
+    | Rough winds do shake the darling buds of May.
+    | I'll kneel down, and ask of thee forgiveness.
+
+#. 
+
+    | Hourly joys be still upon you!
+    | And frame your mind to mirth and merriment.
+
+#. 
+
+    | The moon new-bent in heaven, shall behold the night
+    | That has such people in't!
+
+#. 
+
+    | And having climb'd the steep-up heavenly hill,
+    | Fortune, good night: smile once more: turn thy wheel!
+
+#. 
+
+    | Beauty o'ersnow'd and bareness every where
+    | Thaws and resolves itself into a dew.
+
+#. 
+
+    | Their eyes do offices of truth, their words are natural breath, 
+    | All dedicated to closeness and the bettering of my mind.
+
+#. 
+
+    | Sound me from my lowest note to the top of my compass:
+    | My heart is true as steel.
+
+#. 
+
+    | Thy self thy foe, to thy sweet self too cruel;
+    | I am sure care’s an enemy to life.
+
+#. 
+
+    | Sermons in stones, and good in everything—
+    | And, therefore, sit you down in gentleness.
+
+#. 
+
+    | Have more than thou showest, speak less than thou knowest,
+    | Nor lose possession of that fair thou ow'st.
+
+#. 
+
+    | What seest thou else in the dark backward and abysm of time?
+    | So full of shapes is fancy that it alone is high fantastical.
+
+#. 
+
+    | To give away yourself, keeps yourself still.
+    | Make me a willow cabin at your gate.
+
+#. 
+
+    | Those be rubies, fairy favors;
+    | They sparkle still the right Promethean fire.
+
+#. 
+
+    | Men must endure their going hence, even as their coming hither.
+    | I am a fool to weep at what I am glad of.
+
+#. 
+
+    | Get thee to a nunnery:
+    | A contract of true love to celebrate.
+
+#. 
+
+    | If music be the food of love, play on,
+    | And let this world no longer be a stage.
+
+#. 
+
+    | A man may see how this world goes with no eyes. Look with thine ears:
+    | The murmuring surge, that on the unnumber'd idle pebbles chafes.
+
+#. 
+
+    | And manifest experience had collected
+    | Of drops that sacred pity hath engend'red.
+
+#. 
+
+    | How beauteous mankind is! O brave new world,
+    | Merrily, merrily, shall I live now.
+
+#. 
+
+    | These our actors, as I foretold you, were all spirits and
+    | Do make me give the lie to my true sight.
+
+#. 
+
+    | With the help of your good hands all things in common nature
+    | Should produce without sweat or endeavour.
+
+#. 
+
+    | And some donation freely to estate
+    | Under the blossom that hangs on the bough.
+
+#. 
+
+    | Sounds and sweet airs, that give delight and hurt not:
+    | In a cowslip's bell I lie.
+
+#. 
+
+    | But that the dread of something after death
+    | It droppeth as the gentle rain from heaven.
+
+#. 
+
+    | And ye that on the sands with printless foot
+    | Do chase the ebbing Neptune—
+    | O, let me see thee walk! Thou dost not halt.
+
+#. 
+
+    | But, like a cloistress, she will veiled walk
+    | Out of the jaws of death.
+
+#. 
+
+    | As there is sense in truth and truth in virtue,
+    | Joy, gentle friends, joy and fresh days of love accompany your hearts!
+
+#. 
+
+    | For who would bear the whips and scorns of time,
+    | And kiss the lips of unacquainted change?
+
+#. 
+
+    | Often have you heard that told: Wherefore are these things hid? 
+    | Wherefore have these gifts a curtain before 'em?
+
+#. 
+
+    | And summer's lease hath all too short a date:
+    | The hour's now come; the very minute bids thee ope thine ear.
+
+#. 
+
+    | I am all the daughters of my father's house, and all the brothers too.
+    | O spirit of love! how quick and fresh art thou.
+
+#. 
+
+    | And enterprises of great pith and moment
+    | Are melted into air, into thin air.
+
+#. 
+
+    | O, swear not by the moon, the inconstant moon,
+    | If it be not now, yet it will come: the readiness is all.
+
+#. 
+
+    | And fearless minds climb soonest unto crowns
+    | That show, contain and nourish all the world.
+
+#. 
+
+    | Youth's a stuff will not endure;
+    | Out of that no hope what great hope have you!
+
+#. 
+
+    | And thus the native hue of resolution
+    | Lies rich in virtue and unmingled.
+
+#. 
+
+    | Happiness courts thee in her best array
+    | And joy comes well in such a needy time.
+
+#. 
+
+    | Nature's bequest gives nothing but doth lend;
+    | Thy truth, then, be thy dower.
+
+#. 
+
+    | Study is like the heaven's glorious sun,
+    | Which touch'd the very virtue of compassion in thee.
+
+#. 
+
+    | Uttering such dulcet and harmonious breath
+    | That long have frown'd upon their enmity!
+
+#. 
+
+    | Give me your hands, if we be friends;
+    | We are such stuff as dreams are made on.
+
+#. 
+
+    | And nothing 'gainst Time's scythe can make defence—
+    | Herein lives wisdom, beauty and increase.
+
+#. 
+
+    | I must go seek some dewdrops here;
+    | It blesseth him that gives and him that takes.
+
+#. 
+
+    | I put you to the use of your own virtues.
+    | All things are ready, if our minds be so.
+
+#. 
+
+    | Now stand you on the top of happy hours,
+    | Against the stormy gusts of winter's day.
+
+#. 
+
+    | Let gentleness my strong enforcement be
+    | To take a new acquaintance of thy mind.
+
+#. 
+
+    | To take arms against a sea of troubles, and by opposing end them?
+    | Let it not enter in your mind of love.
+
+#. 
+
+    | These most brisk and giddy-paced times:
+    | Is man no more than this? Consider him well.
+
+#. 
+
+    | Who with thy saffron wings upon my flowers
+    | Calls back the lovely April of her prime: the form of my intent.
+
+#. 
+
+    | It is a wise father that knows his own child,
+    | Like to a double cherry, seeming parted, but yet an union in partition.
+
+#. 
+
+    | In action how like an angel! In apprehension how like a god
+    | That the rude sea grew civil at her song.
+
+#. 
+
+    | Gaze where you should, and that will clear your sight.
+    | Enrich the time to come with smooth-fac'd peace.
+
+#. 
+
+    | The slings and arrows of outrageous fortune—
+    | These blessed candles of the night.
+
+#. 
+
+    | O, from what power hast thou this powerful might,
+    | By chance or nature's changing course untrimm'd?
+
+#. 
+
+    | Rise from the ground like feathered Mercury,
+    | Then to the elements be free, and fare thou well!
+
+#. 
+
+    | The constancy and virtue of your love—
+    | Diffusest honey-drops, refreshing showers.
+
+#. 
+
+    | For never-resting time leads summer on—
+    | The wheel is come full circle: I am here.
+
+#. 
+
+    | But how is it that this lives in thy mind,
+    | The undiscover'd country from whose bourn no traveller returns?
+   
+
+#. 
+
+    | They are the books, the arts, the academes—
+    | And I serve the fairy queen.
+
+#. 
+
+    | Smooth runs the water where the brook is deep.
+    | What stronger breastplate than a heart untainted?
+
+#. 
+
+    | Then wisely, good sir, weigh our sorrow with our comfort,
+    | That ebb and flow by the moon.
+
+#. 
+
+    | All that glisters is not gold. To plainness honour's bound
+    | When majesty falls to folly.
+
+#. 
+
+    | Think'st thou I'd make a life of jealousy?
+    | The quality of mercy is not strain'd.
+
+#. 
+
+    | O heaven, O earth, bear witness to this sound,
+    | As full of spirit as the month of May.
+
+#. 
+
+    | When I consider every thing that grows
+    | Holds in perfection but a little moment—
+    | Pray you, tread softly, that the blind mole may not hear a foot fall.
+
+#. 
+
+    | With gentle conference, soft and affable,
+    | Let your indulgence set me free.
+
+#. 
+
+    | Light, seeking light, doth light of light beguile;
+    | Now let not Nature's hand keep the wild flood confin'd!
+
+#. 
+
+    | True, I talk of dreams, for there is nothing
+    | Either good or bad, but thinking makes it so.
+
+#. 
+
+    | What's in a name? that which we call a rose
+    | Being once display'd doth fall that very hour.
+
+#. 
+
+    | O, if you but knew how you the purpose cherish!
+    | If all were minded so, the times should cease.
+
+#. 
+
+    | What is love? 'tis not hereafter,
+    | And being frank she lends to those are free.
+
+#. 
+
+    | What's to come is still unsure; what's past is prologue.
+    | Present mirth hath present laughter.
+
+#. 
+
+    | And the moon changes even as your mind,
+    | But thy eternal summer shall not fade.
+
+#. 
+
+    | I, thus neglecting worldly ends,
+    | Play out the play.
+
+#. 
+
+    | Continue still in this so good a mind,
+    | Wherein it finds a joy above the rest.
+
+#. 
+
+    | To forswear the full stream of the world
+    | And to live in a nook merely monastic
+    | And by my body's action teach my mind.
+
+#. 
+
+    | Defer no time, delays have dangerous ends;
+    | Thou shalt be as free as mountain winds.
+
+#. 
+
+    | Understanding begins to swell  by prayer, which pierces so
+    | That it assaults mercy itself, and frees all faults.
+
+#. 
+
+    | As it is a spare life, look you, it fits my humour well,
+    | With smiling plenty, and fair prosperous days!
+
+#. 
+
+    | Th'endeavour of this present breath may buy
+    | The very lifeblood of our enterprise.
+
+#. 
+
+    | But I will tarry; the fool will stay, and let the wise man fly,
+    | To pay this debt of love but to a brother.
+
+#. 
+
+    | And now let's go hand in hand, not one before another,
+    | Swifter than the moon's sphere.
+
+#. 
+
+    | Smiling at grief: Awake, awake!
+    | In delay there lies no plenty.
+
+#. 
+
+    | And then the moon, like to a silver bow
+    | Upon the place beneath: it is twice blest.
+
+#. 
+
+    | And as the morning steals upon the night,
+    | Consideration like an angel came.
+
+#. 
+
+    | When we have shuffled off this mortal coil,
+    | There's nothing ill can dwell in such a temple.
+
+#. 
+
+    | Be not afeard; the isle is full of noises,
+    | To entrap the wisest.
+
+#. 
+
+    | Roses have thorns, and silver fountains mud—
+    | I would you would make use of that good wisdom.
+
+#. 
+
+    | Make the babbling gossip of the air cry out:
+    | 'There are occasions and causes, why and wherefore in all things!'
+   
+
+#. 
+
+    | Or to thyself at least kind-hearted prove:
+    | As fast as thou shalt wane, so fast thou growest.
+
+#. 
+
+    | For virtue and true beauty of the soul,
+    | Halloo your name to the reverberate hills!
+
+#. 
+
+    | But we in silence hold this virtue well:
+    | The amity that wisdom knits not, folly may easily untie.
+
+#. 
+
+    | Thy virtues spoke of, and thy beauty sounded,
+    | The better part of valour is discretion.
+
+#. 
+
+    | Draw the curtain close and let us all to meditation,
+    | To pluck bright honour from the pale-fac'd moon.
+
+#. 
+
+    | My crown is call'd content. A crown it is that seldom kings enjoy.
+    | Silence bestows that virtue on it.
+
+#. 
+
+    | Time travels in divers paces with divers persons,
+    | And, since I saw thee, th' affliction of my mind amends.
+
+#. 
+
+    | When wheat is green, when hawthorn buds appear,
+    | These vacant leaves thy mind's imprint will bear.
+
+#. 
+
+    | Burd'ned with like weight of pain,
+    | Thou didst smile, infused with a fortitude from heaven.
+
+#. 
+
+    | This bud of love, by summer's ripening breath—
+    | Was it not to refresh the mind of man?
+
+#. 
+
+    | So shaken as we are, so wan with care—
+    | Awake, dear heart, awake; thou hast slept well. Awake!
+
+#. 
+
+    | Enforce attention like deep harmony;
+    | You shall find your safety manifested.
+
+#. 
+
+    | Hath not in nature's mystery more science
+    | To make the coming hour o'erflow with joy?
+
+#. 
+
+    | How hard it is to hide the sparks of nature!
+    | Virtue is bold, and goodness never fearful.
+
+#. 
+
+    | I will believe thou hast a mind that suits
+    | And may enjoy such quiet walks as these.
+
+#. 
+
+    | Who doth ambition shun, and loves to live i' th' sun,
+    | He finds the joys of heaven here on earth.
+
+#. 
+
+    | Enjoy thy plainness. It nothing ill becomes thee.
+    | For 'tis the mind that makes the body rich.
+
+#. 
+
+    | Crowning the present, doubting of the rest?
+    | Keep unshak'd that temple, thy fair mind.
+
+#. 
+
+    | Unlooked for joy in that I honour most:
+    | Your bounty, virtue, fair humility.
+
+#. 
+
+    | Divert strong minds to the course of alt'ring things.
+    | Where words are scarce, they are seldom spent in vain.
+
+#. 
+
+    | For virtue's office never breaks men's troth,
+    | Nor hath Love's mind of any judgment taste.
+
+#. 
+
+    | As Nature was in making graces dear,
+    | Then happy I that love and am beloved.
+
+#. 
+
+    | You bear a gentle mind, and heav'nly blessings follow such creatures.
+    | Steel thy fearful thoughts and change misdoubt to resolution.
+   
+
+#. 
+
+    | Do not infest your mind with beating on
+    | The strangeness of this business;
+    | It is the purpose that makes strong the vow.
+
+#. 
+
+    | A turn or two I'll walk to still my beating mind.
+    | My crown is in my heart, not on my head.
+
+#. 
+
+    | That love which virtue begs and virtue grants
+    | Is true of mind and made of no such baseness.
+
+#. 
+
+    | Your patience and your virtue well deserves it
+    | That every eye which in this forest looks
+    | Shall see thy virtue witness'd every where.
+
+#. 
+
+    | Cease, cease these jars and rest your minds in peace
+    | And take thou my oblation, poor but free.
+
+#. 
+
+    | To make you understand this in a manifested effect:
+    | Now you are heir, therefore enjoy it now.
+
+#. 
+
+    | The purest spring is not so free from mud;
+    | It is the show and seal of nature's truth.
+
+#. 
+
+    | Comets, importing change of times and states—
+    | O infinite virtue, com'st thou smiling from
+    | The world's great snare uncaught?
+
+#. 
+
+    | The very virtue of compassion in thee
+    | Shall change all griefs and quarrels into love.
+
+#. 
+
+    | You see how all conditions, how all minds tender down their services?
+    | Silence is the perfectest herald of joy.
+
+#. 
+
+    | All of one nature, of one substance bred,
+    | When inward joy enforc'd my heart to smile!
+
+#. 
+
+    | Who alone suffers suffers most i' th' mind,
+    | Then music with her silver sound
+    | With speedy help doth lend redress.
+
+#. 
+
+    | An odorous chaplet of sweet summer buds
+    | Whereof the root was fix'd in virtue's ground.
+
+#. 
+
+    | One feast, one house, one mutual happiness,
+    | With profits of the mind, study and fast.
+
+#. 
+
+    | The griefs are ended by seeing the worst,
+    | Then sigh not so, but let them go.
+
+#. 
+
+    | To shun the heaven that leads men to this hell,
+    | The wild sea of my conscience, I did steer.
+
+#. 
+
+    | Through the forest I have gone
+    | To make some special instance special-blest.
+
+#. 
+
+    | Clouds and eclipses stain both moon and sun—
+    | I'll be as patient as a gentle stream.
+
+#. 
+
+    | For I must tell you friendly in your ear:
+    | The forest walks are wide and spacious.
+
+#. 
+
+    | As plays the sun upon the glassy streams,
+    | Awake the pert and nimble spirit of mirth.
+
+#. 
+
+    | Full merrily the humble-bee doth sing,
+    | 'The more I give to thee, the more I have.'
+
+#. 
+
+    | The sea all water, yet receives rain still—
+    | God be thank'd, there is no need of me.
+
+#. 
+
+    | Out of this nettle, danger, we pluck this flower, safety,
+    | And make us heirs of all eternity.
+
+#. 
+
+    | That's a valiant flea that dare eat his breakfast on the lip of a lion.
+    | Whilst I am bound to wonder, I am bound to pity too.
+
+#. 
+
+    | Full many a glorious morning have I seen,
+    | For I impair not beauty being mute.
+
+#. 
+
+    | A little fire is quickly trodden out;
+    | All losses are restored, and sorrows end.
+
+#. 
+
+    | My friends were poor, but honest; so's my love.
+    | In life's uncertain voyage, I will some kindness do them.
+
+#. 
+
+    | Let's take the instant by the forward top
+    | And do whate'er thou wilt swift-footed Time.
+
+#. 
+
+    | One minute, nay, one quiet breath of rest.
+    | A kingdom for it was too small a bound.
+
+#. 
+
+    | With sun and moon, with earth and sea's rich gems,
+    | Buy terms divine in selling hours of dross.
+
+#. 
+
+    | Sweet are the uses of adversity
+    | Over whose acres walk'd those blessed feet.
+
+#. 
+
+    | Men of great worth resorted to this forest
+    | As many fresh streams meet in one salt sea.
