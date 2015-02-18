@@ -789,14 +789,13 @@
 
 [^8]: The Tempest, Epilogue: Prospero
 
-[^9]: Sonnet 10.
+[^9]: Sonnet 10. **grant** allow **wilt** will **thou** you **art** are 
 
 [^10]: Richard III 3.7: Buckingham
 
-[^11]: The Tempest Epilogue: Prospero. "Charms" here means "spells" or
-   "enchantments."
+[^11]: The Tempest Epilogue: Prospero. **charms** spells/enchantments **o'erthrown** overthrown = dispelled
 
-[^12]: Romeo and Juliet 1.4: Mercutio. "I talk of dreams."
+[^12]: Romeo and Juliet 1.4: Mercutio. "I talk of dreams." **begot** brought into existence **vain** useless
 
 [^13]: Sonnet 11. "She" here is Nature.
 
