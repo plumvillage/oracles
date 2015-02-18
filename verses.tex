@@ -1,5 +1,8 @@
-\documentclass[17pt]{extarticle}
+\documentclass[17pt,twoside]{extarticle}
 \usepackage[a4paper, margin=1.7cm]{geometry}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -38,7 +41,7 @@
             colorlinks=true,
             citecolor=blue,
             urlcolor=blue,
-            linkcolor=magenta,
+            linkcolor=black,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 \setlength{\parindent}{0pt}
@@ -52,10 +55,22 @@
 \author{Plum Village}
 \date{2015}
 
+\fancypagestyle{plain}
+\fancyhead{}
+\fancyhead[C]{\slshape SHAKE-SPEARES ORACLES}
+\fancyhead[LE]{\thepage}
+\fancyhead[RO]{\thepage}
+\headheight = 37pt
+\fancyfoot{}
 
 \begin{document}
 
-\maketitle
+\thispagestyle{empty}
+
+\begin{figure}[htbp] 
+   \centering
+   \includegraphics[width=15.5cm]{images/frontispiece.png}
+\end{figure}
 
 \begin{enumerate}
 \item
@@ -732,5 +747,12 @@
     5.4: Jaques de Boys}\\As many fresh streams meet in one salt
   sea.\footnote{Henry V 1.2: Canterbury}
 \end{enumerate}
+
+\vspace{2cm}
+
+\begin{figure}[htbp] 
+   \centering
+   \includegraphics[width=15.5cm]{images/frontispiece.png}
+\end{figure}
 
 \end{document}

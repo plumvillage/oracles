@@ -109,8 +109,7 @@
 
 #. 
 
-    | Men must endure their going hence, even as their coming hither.
-   [^43]
+    | Men must endure their going hence, even as their coming hither.[^43]
     | I am a fool to weep at what I am glad of.[^44]
 
 #. 
