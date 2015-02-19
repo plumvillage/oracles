@@ -581,7 +581,7 @@
 #. 
 
     | Crowning the present, doubting of the rest?[^232]
-    | Keep unshak'd that temple, thy fair mind.[^233]
+    | Keep unshaked that temple, thy fair mind.[^233]
 
 #. 
 
@@ -984,10 +984,10 @@
 [^98]: The Tempest 4.1: Prospero. On the insubstantiality of phenomenal
    objects.
 
-[^99]: Sonnet 12. Impermanence.
+[^99]: Sonnet 12. Impermanence. **scythe** a tool used for cutting crops such as grass or corn, with a long curved blade at the end of a long pole attached to one or two short handles. 
 
 [^100]: Sonnet 11. Touching impermanence we get wisdom, and our love
-   increases.
+   increases. **herein** in this insight
 
 [^101]: A Midsummer Night's Dream 2.1: Fairy.
 
@@ -999,7 +999,7 @@
 
 [^105]: Sonnet 16.
 
-[^106]: Sonnet 13.
+[^106]: Sonnet 13. **gust** a sudden strong rush of wind
 
 [^107]: As You Like It 2.7: Orlando
 
@@ -1009,13 +1009,13 @@
 
 [^110]: Merchant of Venice 2.8: Salerio.
 
-[^111]: Twelfth Night 2.4: Duke Orsino.
+[^111]: Twelfth Night 2.4: Duke Orsino. **brisk** active and energetic **giddy-paced** disorienting and alarming times
 
 [^112]: King Lear 3.4: King Lear.
 
-[^113]: The Tempest 4.1: Ceres.
+[^113]: The Tempest 4.1: Ceres. **saffron** an orange-yellow flavouring, food colouring, and dye made from the dried stigmas of a crocus.
 
-[^114]: Sonnet 3.
+[^114]: Sonnet 3. **prime** the state or time of greatest vigour or success in a person's life
 
 [^115]: Twelfth Night 1.2: Viola. Beginner's mind, aspiration.
 
@@ -1023,31 +1023,31 @@
 
 [^117]: A Midsummer Night's Dream 3.2: Helena.
 
-[^118]: Hamlet, Prince of Denmark 2.2: Hamlet. He speaks of man.
+[^118]: Hamlet, Prince of Denmark 2.2: Hamlet. He speaks of man. **apprehension** understanding
 
 [^119]: A Midsummer Night's Dream 2.1: Oberon. Of a mermaid on a dolphin's
-   back.
+   back. **rude** rough, choppy **civil** calm
 
-[^120]: Comedy of Errors 3.2: Luciana.
+[^120]: Comedy of Errors 3.2: Luciana. **gaze** look steadily and intently
 
 [^121]: Richard III 5.5: Henry, Earl of Richmond.
 
 [^122]: Hamlet, Prince of Denmark 3.1: Hamlet. Suffering resulting from past
-   actions.
+   actions. **slings** a simple weapon in the form of a strap or loop, used to hurl stones **outrageous** very bold and unusual and rather shocking
 
 [^123]: The Merchant of Venice 5.1: Bassanio. The stars.
 
 [^124]: Sonnet 150.
 
-[^125]: Sonnet 18. The insight of impermanence gives us power over our lives.
+[^125]: Sonnet 18. The insight of impermanence gives us power over our lives. **untrimmed** not having been adjusted (a sail) to take advantage of the wind
 
 [^126]: Henry IV, Part 1 4.1: Vernon.
 
-[^127]: The Tempest, 5.1: Prospero.
+[^127]: The Tempest, 5.1: Prospero. **fare thou well** go well, have a good trip
 
 [^128]: Sonnet 117
 
-[^129]: The Tempest 4.1: Ceres.
+[^129]: The Tempest 4.1: Ceres. **diffusest** spread over a wide area
 
 [^130]: Sonnet 5. Time here is impermanence.
 
@@ -1055,7 +1055,7 @@
 
 [^132]: The Tempest 1.2: Prospero
 
-[^133]: Hamlet, Prince of Denmark 3.1: Hamlet. What is beyond death.
+[^133]: Hamlet, Prince of Denmark 3.1: Hamlet. What is beyond death. **bourn** boundary
 
 [^134]: Love's Labour Lost: 4.3. **academes** academies. They put their life into books, arts, or intellectual knowledge.
 
@@ -1063,35 +1063,35 @@
 
 [^136]: The Tempest, Epilogue: Prospero.
 
-[^137]: The Tempest 2.1: Gonzalo.
+[^137]: The Tempest 2.1: Gonzalo. **breastplate** a piece of armour covering the chest **untainted** not contaminated or polluted
 
 [^138]: The Tempest 2.1: Gonzalo.
 
 [^139]: King Lear 5.3: King Lear.
 
-[^140]: The Merchant of Venice 2.7.
+[^140]: The Merchant of Venice 2.7. **glisters** sparkles, glitters **bound**  restricted or confined to
 
 [^141]: King Lear 1.1: Kent. King Lear is caught in the wrong view that his
    daughter Cordelia is not grateful to him. Kent, knowing her
-   faithfulness, tries to intervene.
+   faithfulness, tries to intervene. **bound** restricted or confined to **majesty** impressive beauty, royal power **folly** lack of good sense, foolishness
 
 [^142]: Othello 3.3: Othello. Iago plants false seeds in Othello of his
    wife's unfaithfulness. Othello says he will not live in jealousy.
 
 [^143]: The Merchant of Venice 4.1: Portia. Compassion frees us from the
-   bonds of jealousy, and it is not difficult at all.
+   bonds of jealousy, and it is not difficult at all. **not strained** not artificial or forced 
 
-[^144]: The Tempest 2.1: Miranda.
+[^144]: The Tempest 2.1: Miranda. **bear witness to** testify to 
 
 [^145]: Henry IV, Part 1 4.1: Vernon.
 
 [^146]: Sonnet 15.
 
-[^147]: The Tempest 4.1: Caliban.
+[^147]: The Tempest 4.1: Caliban. **mole** a small burrowing mammal with dark velvety fur, a long muzzle, and very small eyes, feeding mainly on worms, grubs, and other invertebrates. **foot fall** footstep
 
-[^148]: Taming of the Shrew 2.1: Petruchio.
+[^148]: Taming of the Shrew 2.1: Petruchio. **conference** conversation, speech **affable** friendly, good-natured, or easy to talk to
 
-[^149]: The Tempest, Epilogue: Prospero.
+[^149]: The Tempest, Epilogue: Prospero. **indulgence** the state or attitude of being indulgent or tolerant
 
 [^150]: Love's Labour Lost 1.1: Berowne. **Light** i.e., eyes **light** enlightenment **light...beguile** we are cheated out of enlightenment by excessive searching
 
@@ -1110,25 +1110,25 @@
 
 [^155]: Twelfth Night 2.4: Orsino.
 
-[^156]: The Tempest, Epilogue: Prospero.
+[^156]: The Tempest, Epilogue: Prospero. **the purpose cherish** hold to your deep aspiration
 
 [^157]: Sonnet 11.
 
-[^158]: Twelfth Night 2.3: Feste.
+[^158]: Twelfth Night 2.3: Feste. **hereafter** at some time in the future
 
-[^159]: Sonnet 4.
+[^159]: Sonnet 4. **frank** open, sincere, or undisguised
 
 [^160]: Twelfth Night 2.3: Feste.
 
-[^161]: The Tempest 2.1: Antonio.
+[^161]: The Tempest 2.1: Antonio. **prologue** an event or act that leads to another
 
-[^162]: Twelfth Night 2.3: Feste.
+[^162]: Twelfth Night 2.3: Feste. **mirth** cheerfulness, joyfulness
 
 [^163]: The Taming of the Shrew 4.5: Katherina.
 
-[^164]: Sonnet 18.
+[^164]: Sonnet 18. **eternal** undying, immortal
 
-[^165]: The Tempest 1.2: Prospero.
+[^165]: The Tempest 1.2: Prospero. **neglecting** not paying attention to 
 
 [^166]: Henry IV, Part 1 2.4: Falstaff.
 
@@ -1136,27 +1136,27 @@
 
 [^168]: Sonnet 91.
 
-[^169]: As You Like It 3.2: Rosalind.
+[^169]: As You Like It 3.2: Rosalind. **nook** a corner or recess, especially one offering seclusion or security
 
 [^170]: Coriolanus 3.2: Coriolanus.
 
-[^171]: Henry VI, Part 1: Alençon.
+[^171]: Henry VI, Part 1: Alençon. **defer** put off (an action or event) to a later time; postpone **ends** a termination of a state or situation
 
-[^172]: The Tempest 1.2: Prospero.
+[^172]: The Tempest 1.2: Prospero. 
 
-[^173]: The Tempest 5.1: Prospero.
+[^173]: The Tempest 5.1: Prospero. **swell** become or make greater in intensity, number, amount, or volume
 
-[^174]: The Tempest, Epilogue: Prospero.
+[^174]: The Tempest, Epilogue: Prospero. **assaults** make a physical attack on **mercy** compassion
 
-[^175]: As You Like It 3.2: Touchstone.
+[^175]: As You Like It 3.2: Touchstone. **spare** frugal **humour** temperament
 
 [^176]: Richard III 5.5: Richmond.
 
 [^177]: Love's Labour Lost 1.1: King. **endeavour** attempt to achieve a goal 
 
-[^178]: Henry IV, Part 1 4.1: Hotspur.
+[^178]: Henry IV, Part 1 4.1: Hotspur. **lifeblood** the indispensable factor or influence that gives something its strength and vitality
 
-[^179]: King Lear 2.4: Fool.
+[^179]: King Lear 2.4: Fool. **tarry** stay longer than intended; delay leaving a place **fly** depart hastily
 
 [^180]: Twelfth Night 1.1: Orsino.
 
@@ -1168,7 +1168,7 @@
 
 [^184]: The Tempest 2.1: Ariel.
 
-[^185]: Twelfth Night 2.3: Feste.
+[^185]: Twelfth Night 2.3: Feste. **plenty** profit
 
 [^186]: A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the
    world at night.
@@ -1176,15 +1176,15 @@
 [^187]: The Merchant of Venice 4.1: Portia. The light of the moon is the
    light of compassion, lighting the moon and the earth below.
 
-[^188]: The Tempest 5.1: Prospero.
+[^188]: The Tempest 5.1: Prospero. **steals** move somewhere quietly or surreptitiously
 
-[^189]: The Tempest 2.1: Antonio.
+[^189]: The Tempest 2.1: Antonio. **consideration** mindfulness and sensitivity towards others
 
-[^190]: Hamlet, Prince of Denmark 3.1: Hamlet.
+[^190]: Hamlet, Prince of Denmark 3.1: Hamlet. **shuffled off this mortal coil** become free of ideas about birth and death
 
-[^191]: The Tempest 1.2: Miranda.
+[^191]: The Tempest 1.2: Miranda. 
 
-[^192]: The Tempest 3.2: Caliban.
+[^192]: The Tempest 3.2: Caliban. **afeard** afraid
 
 [^193]: The Merchant of Venice 3.2: Bassanio.
 
@@ -1192,71 +1192,71 @@
 
 [^195]: King Lear 1.4: Goneril.
 
-[^196]: Twelfth Night 1.5: Viola.
+[^196]: Twelfth Night 1.5: Viola. **babbling** (of a stream) make the continuous murmuring sound of water flowing over stones **gossip** casual or unconstrained conversation or reports about other people 
 
-[^197]: Henry V 5.1: Fluellen. "Is" changed to "are".
+[^197]: Henry V 5.1: Fluellen. **wherefore** for what reason *nb. "is" changed to "are"*
 
 [^198]: Sonnet 10.
 
-[^199]: Sonnet 11.
+[^199]: Sonnet 11. **wane** (of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.
 
-[^200]: Henry VIII 4.2: Katharine.
+[^200]: Henry VIII 4.2: Katherine.
 
-[^201]: Twelfth Night 1.5: Viola.
+[^201]: Twelfth Night 1.5: Viola. **Halloo** cry or shout ‘halloo’ to attract attention **reverberate** (of a place) appear to vibrate because of a loud noise
 
 [^202]: Troilus and Cressida 4.1: Paris.
 
-[^203]: Troilus and Cressida 2.3: Ulysses.
+[^203]: Troilus and Cressida 2.3: Ulysses. **amity** friendly relations **knits** causes to unite **folly** lack of good sense, foolishness
 
-[^204]: Taming of the Shrew 2.1: Petruchio.
+[^204]: Taming of the Shrew 2.1: Petruchio. **sounded** tested
 
-[^205]: Henry IV, Part I 5.4: Falstaff.
+[^205]: Henry IV, Part I 5.4: Falstaff. **valour** great courage in the face of danger **discretion** the freedom to decide what should be done in a particular situation
 
 [^206]: Henry VI, Part II 3.3: King Henry.
 
-[^207]: Henry IV, Part I 1.3: Hotspur.
+[^207]: Henry IV, Part I 1.3: Hotspur. **pluck** take hold of (something) and quickly remove it from its place
 
 [^208]: Henry VI, Part III 3.1: King Henry.
 
-[^209]: Merchant of Venice 5.1: Nerissa.
+[^209]: Merchant of Venice 5.1: Nerissa. **bestows** confers or presents (an honour, right, or gift)
 
-[^210]: As You Like It 3.2: Rosalind.
+[^210]: As You Like It 3.2: Rosalind. **diverse** different **paces** speeds 
 
-[^211]: The Tempest 5.1: Alonso.
+[^211]: The Tempest 5.1: Alonso. **amends** is put right
 
 [^212]: A Midsummer Night's Dream 1.1: Helena.
 
-[^213]: Sonnet 77.
+[^213]: Sonnet 77. **vacant leaves** empty pages **mind's imprint** writing
 
-[^214]: Comedy of Errors 2.1: Adriana.
+[^214]: Comedy of Errors 2.1: Adriana. **burdened** loaded heavily
 
-[^215]: The Tempest 1.2: Prospero.
+[^215]: The Tempest 1.2: Prospero. **infused** filled, pervaded **fortitude** courage in pain or adversity
 
 [^216]: Romeo and Juliet 2.2: Juliet.
 
 [^217]: The Taming of the Shrew 3.1: Lucentio.
 
-[^218]: Henry IV, Part I 1.1: King Henry.
+[^218]: Henry IV, Part I 1.1: King Henry. **wan** (of a person's complexion or appearance) pale and giving the impression of illness or exhaustion
 
 [^219]: The Tempest 1.2: Prospero.
 
-[^220]: Richard II 2.1: Gaunt.
+[^220]: Richard II 2.1: Gaunt. **enforce** cause (something) to happen by necessity
 
-[^221]: Measure For Measure 4.3: Duke.
+[^221]: Measure For Measure 4.3: Duke. **manifested** clear or obvious to the eye or mind
 
 [^222]: All's Well That Ends Well 5.3: King.
 
-[^223]: All's Well That Ends Well 2.4: Parolles.
+[^223]: All's Well That Ends Well 2.4: Parolles. **o'erflow** overflow
 
-[^224]: Cymbeline 3.3: Belarius.
+[^224]: Cymbeline 3.3: Belarius. **sparks of nature** signs of inherent qualities
 
-[^225]: Measure For Measure 3.1: Duke.
+[^225]: Measure For Measure 3.1: Duke. **bold** showing a willingness to take risks; confident and courageous
 
-[^226]: Twelfth Night 1.2: Viola.
+[^226]: Twelfth Night 1.2: Viola. **suits** be convenient for or acceptable to
 
 [^227]: Henry VI, Part II 4.10: Iden.
 
-[^228]: As You Like It 2.5: Song.
+[^228]: As You Like It 2.5: Song. **ambition** desire and determination to achieve success **shun** persistently avoid, ignore, or reject (someone or something) through antipathy or caution **i' th' sun** in the sun
 
 [^229]: Merchant of Venice 3.5: Jessica.
 
@@ -1264,17 +1264,17 @@
 
 [^231]: The Taming of the Shrew 4.3: Petruchio.
 
-[^232]: Sonnet 115.
+[^232]: Sonnet 115. **crowning the present** resting in the present moment
 
 [^233]: Cymbeline 2.1: Second Lord.
 
-[^234]: Sonnet 25.
+[^234]: Sonnet 25. **Unlooked for** unexpectedly/overlooked, disregarded **joy...most** enjoy what I consider most worthy of honour
 
-[^235]: Richard III 3.7: Buckingham.
+[^235]: Richard III 3.7: Buckingham. **bounty** something given or occurring in generous amounts
 
-[^236]: Sonnet 115.
+[^236]: Sonnet 115. **divert** cause (someone or something) to change course or turn from one direction to another **altering things** things that change in character or composition, typically in a comparatively small but significant way
 
-[^237]: Richard II 2.1: Gaunt.
+[^237]: Richard II 2.1: Gaunt. **scarce** occurring in small numbers or quantities; rare **seldom** not often; rarely **vain** having no likelihood of fulfilment
 
 [^238]: Love's Labour Lost 5.2: Princess. **office** function **troth** faith or loyalty pledged
 
@@ -1286,132 +1286,132 @@
 
 [^242]: Henry VIII 2.3: Chamberlain.
 
-[^243]: Henry VI, Part II 3.1: York.
+[^243]: Henry VI, Part II 3.1: York. **steel** mentally prepare (oneself) to do or face something difficult **misdoubt** mistrust, uncertainty
 
-[^244]: The Tempest 5.1: Prospero.
+[^244]: The Tempest 5.1: Prospero. **infest** overwhelm **beating** dwelling 
 
-[^245]: Troilus and Cressida 5.3: Cassandra.
+[^245]: Troilus and Cressida 5.3: Cassandra. **purpose** intention, volition
 
-[^246]: The Tempest 4.1: Prospero.
+[^246]: The Tempest 4.1: Prospero. **A turn or two I'll walk** I'll walk around a bit **beating mind** mind overwhelmed with emotion 
 
 [^247]: Henry VI, Part III 3.1: King Henry.
 
-[^248]: Henry VI, Part III 3.2: Lady Grey.
+[^248]: Henry VI, Part III 3.2: Lady Grey. **begs** asks for
 
-[^249]: Othello 3.4: Desdemona.
+[^249]: Othello 3.4: Desdemona. **baseness** lack of moral principles
 
 [^250]: As You Like It 5.4: Jaques.
 
-[^251]: As You Like It 3.2: Orlando.
+[^251]: As You Like It 3.2: Orlando. **witnessed** openly shown
 
-[^252]: Henry VI, Part I 1.1: Bedford.
+[^252]: Henry VI, Part I 1.1: Bedford. **jars** discord or disagreements
 
-[^253]: Sonnet 125.
+[^253]: Sonnet 125. **oblation** a thing presented or offered to God or a god
 
-[^254]: Measure For Measure 4.2: Duke.
+[^254]: Measure For Measure 4.2: Duke. **manifested** clear or obvious to the eye or mind
 
-[^255]: Henry VI, Part III 1.2: Edward.
+[^255]: Henry VI, Part III 1.2: Edward. **heir** a person who inherits and continues the work of a predecessor
 
 [^256]: Henry VI, Part II 3.1: Gloucester.
 
-[^257]: All's Well That Ends Well 1.3: Countess.
+[^257]: All's Well That Ends Well 1.3: Countess. **seal** a thing regarded as a confirmation or guarantee of something
 
-[^258]: Henry VI, Part I 1.1: Bedford.
+[^258]: Henry VI, Part I 1.1: Bedford. **importing** indicating or signifying
 
-[^259]: Antony and Cleopartra 4.8: Cleopatra.
+[^259]: Antony and Cleopartra 4.8: Cleopatra. **snare** a trap for catching birds or mammals; a thing likely to lure or tempt someone into harm or error
 
 [^260]: The Tempest 1.2: Prospero.
 
-[^261]: Henry V 5.2: Queen Isabella
+[^261]: Henry V 5.2: Queen Isabella. **quarrel** an angry argument or disagreement
 
-[^262]: Timon of Athens 1.1: Poet.
+[^262]: Timon of Athens 1.1: Poet. **tender down** offer *nb. interceding clause removed "You see how all conditions, how all minds, / As well of glib and slipp'ry creatures as / Of grave and austere quality, tender down / Their services to Lord Timon."*
 
-[^263]: Much Ado About Nothing 2.1: Claudio.
+[^263]: Much Ado About Nothing 2.1: Claudio. **herald** a person or thing viewed as a sign that something is about to happen
 
-[^264]: Henry IV, Part I 1.1: King.
+[^264]: Henry IV, Part I 1.1: King. **bred** reared or raised in a specified environment or way
 
-[^265]: Two Gentlemen of Verona 1.2: Julia.
+[^265]: Two Gentlemen of Verona 1.2: Julia. **enforced** caused by necessity
 
-[^266]: King Lear 3.6: Edgar.
+[^266]: King Lear 3.6: Edgar. **i' th' mind** in the mind
 
-[^267]: Romeo and Juliet 4.5: Peter.
+[^267]: Romeo and Juliet 4.5: Peter. **doth lend redress** does offer remedy or compensation for a wrong or grievance
 
-[^268]: A Midsummer Night's Dream 2.1: Titania.
+[^268]: A Midsummer Night's Dream 2.1: Titania. **odorous** having or giving off a fragrance **chaplet** a garland or circlet for a person's head
 
 [^269]: Henry VI, Part III 3.3: Warwick.
 
 [^270]: Two Gentlemen of Verona 5.4: Valentine.
 
-[^271]: Measure for Measure 1.4: Lucio.
+[^271]: Measure for Measure 1.4: Lucio. **profits** advantages; benefits **fast** abstain from all or some kinds of food or drink
 
 [^272]: Othello 1.3: Duke.
 
 [^273]: Much Ado About Nothing 2.3: Balthasar.
 
-[^274]: Sonnet 129
+[^274]: Sonnet 129. **shun** persistently avoid, ignore, or reject (someone or something) through antipathy or caution
 
 [^275]: Henry VIII 2.4: King.
 
-[^276]: Midsummer Night's Dream 2.2: Puck
+[^276]: Midsummer Night's Dream 2.2: Puck.
 
-[^277]: Sonnet 52
+[^277]: Sonnet 52. **blest** blessed, made holy, consecrated
 
-[^278]: Sonnet 35
+[^278]: Sonnet 35. **eclipse** an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination **stain** mark or discolour with something that is not easily removed
 
-[^279]: Two Gentlemen of Verona 2.7: Julia
+[^279]: Two Gentlemen of Verona 2.7: Julia.
 
-[^280]: As You Like It 3.5: Rosalind
+[^280]: As You Like It 3.5: Rosalind.
 
-[^281]: Titus Andronicus 2.1: Aaron
+[^281]: Titus Andronicus 2.1: Aaron.
 
-[^282]: Henry V 1.2: Suffolk
+[^282]: Henry V 1.2: Suffolk.
 
-[^283]: Midsummer Night's Dream 1.1: Theseus
+[^283]: Midsummer Night's Dream 1.1: Theseus. **pert** lively **nimble** (of the mind) able to think and understand quickly **mirth** cheery, joy
 
-[^284]: Troilus and Cressida 5.10: Pandarus
+[^284]: Troilus and Cressida 5.10: Pandarus. **merrily** in a cheerful way
 
-[^285]: Romeo and Juliet 2.2: Juliet
+[^285]: Romeo and Juliet 2.2: Juliet.
 
-[^286]: Sonnet 135
+[^286]: Sonnet 135.
 
-[^287]: Richard III 3.7: Gloucester
+[^287]: Richard III 3.7: Gloucester.
 
-[^288]: Henry IV, Part I 2.3: Hotspur
+[^288]: Henry IV, Part I 2.3: Hotspur. **nettle** a herbaceous plant which has jagged leaves covered with stinging hairs **pluck** take hold of (something) and quickly remove it from its place
 
-[^289]: Love's Labour Lost 1.1: King. **heirs** those who inherit **eternity** infinite or unending time
+[^289]: Love's Labour Lost 1.1: King. **heirs** those who inherit **eternity** infinite or unending time; timelessness
 
-[^290]: Henry V 3.7: Orleans
+[^290]: Henry V 3.7: Orleans. **valiant** possessing or showing courage or determination
 
-[^291]: Cymbeline 1.6: Iachimo
+[^291]: Cymbeline 1.6: Iachimo. **whilst** while **bound** restricted or confined to a specified place or thing
 
-[^292]: Sonnet 33
+[^292]: Sonnet 33. **glorious** having a striking beauty or splendour
 
-[^293]: Sonnet 83
+[^293]: Sonnet 83. **impair** weaken or damage (something, especially a faculty or function) **mute** refraining from speech or temporarily speechless
 
-[^294]: Henry VI, Part III 4.8: Clarence
+[^294]: Henry VI, Part III 4.8: Clarence. **trodden** having set one's foot down on top of
 
-[^295]: Sonnet 30
+[^295]: Sonnet 30. **restored** given back
 
-[^296]: All's Well That Ends Well 1.3: Helena
+[^296]: All's Well That Ends Well 1.3: Helena.
 
-[^297]: Timon of Athens 5.1: Timon
+[^297]: Timon of Athens 5.1: Timon.
 
-[^298]: All's Well That Ends Well 5.3: King
+[^298]: All's Well That Ends Well 5.3: King. **take the instant by the forward top** tug occasion by the forelock (hair at the front of the head), i.e. make good use of the present moment.
 
-[^299]: Sonnet 19
+[^299]: Sonnet 19.
 
-[^300]: King John 3.4: Pandulph
+[^300]: King John 3.4: Pandulph.
 
-[^301]: Henry IV, Part I 5.4: Prince Henry
+[^301]: Henry IV, Part I 5.4: Prince Henry. **bound** a territorial limit; a boundary
 
-[^302]: Sonnet 21
+[^302]: Sonnet 21.
 
-[^303]: Sonnet 146
+[^303]: Sonnet 146. **terms divine** touch no-birth no-death/the ultimate/favourable terms from God **hours of dross** time wasted devoted to material pleasures
 
-[^304]: As You Like It 2.1: Duke Senior
+[^304]: As You Like It 2.1: Duke Senior. **uses** the value or advantages of something
 
-[^305]: Henry IV, Part I 1.1: King Henry IV
+[^305]: Henry IV, Part I 1.1: King Henry IV. **acres** a unit of land area equal to 4,840 square yards (0.405 hectare)
 
-[^306]: As You Like It 5.4: Jaques de Boys
+[^306]: As You Like It 5.4: Jaques de Boys. **worth** high value or merit **resorted** turn to and adopt (a course of action, especially an extreme or undesirable one) so as to resolve a difficult situation
 
-[^307]: Henry V 1.2: Canterbury
+[^307]: Henry V 1.2: Canterbury.
