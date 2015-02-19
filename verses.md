@@ -139,8 +139,8 @@
 
 #. 
 
-    | These our actors, as I foretold you, were all spirits and[^55]
-    | Do make me give the lie to my true sight.[^56]
+    | These our actors, as I foretold you, were all spirits[^55]
+    | To make me give the lie to my true sight.[^56]
 
 #. 
 
@@ -216,7 +216,7 @@
 #. 
 
     | Youth's a stuff will not endure;[^85]
-    | Out of that no hope what great hope have you![^86]
+    | O, out of that 'no hope' what great hope have you![^86]
 
 #. 
 
@@ -849,7 +849,7 @@
 
 [^35]: The Tempest 2.1: Antonio. **thou showest** you show **thou knowest** you know
 
-[^36]: Sonnet 18. **fair** beauty **thou ow'st** you own/that is yours
+[^36]: Sonnet 18. **fair** beauty **thou ow'st** you own, that is yours
 
 [^37]: The Tempest 1.2: Prospero. He asks Miranda to see what she remembers
    of her past. **seest thou else** else do you see **abysm** bottomless pit
@@ -865,126 +865,119 @@
 
 [^42]: Love's Labour Lost: 4.3. **still...fire** continually with the heavenly fire stolen by Prometheus.
 
-[^43]: King Lear 5.2: Edgar. He speaks these lines to Gloucester after
-   learning that Cordelia has lost the battle in order to rouse him. No
-   coming, no going. Present moment.
+[^43]: King Lear 5.2: Edgar. No coming, no going. Present moment. **hence** from here **hither** towards this place.
 
-[^44]: The Tempest 2.1: Miranda.
+[^44]: The Tempest 2.1: Miranda. **weep** cry
 
-[^45]: Hamlet, Prince of Denmark 3.1: Hamlet. Seeing his destructive
-   emotions and afraid for Ophelia's wellbeing, he pushes her away.
+[^45]: Hamlet, Prince of Denmark 3.1: Hamlet. **thee** you
 
-[^46]: The Tempest 4.1: Iris. Spirits celebrate Ferdinand's winning of
-   Miranda's hand.
+[^46]: The Tempest 4.1: Iris. **contract** a formal agreement to marry
 
 [^47]: Twelfth Night 1.1: Orsino.
 
 [^48]: Henry the Fourth, Part 2 1.1: Northumberland.
 
-[^49]: King Lear 4.6: King Lear. To the blinded Gloucester.
+[^49]: King Lear 4.6: King Lear. To the blinded Gloucester. **thine** your
 
-[^50]: King Lear 4.6: Edgar. To Gloucester.
+[^50]: King Lear 4.6: Edgar. To Gloucester. **surge** a sudden powerful forward or upward movement, especially by a natural force such as the tide **chafes** rubs abrasively against another
 
-[^51]: All's Well That Ends Well 1.3: Helena.
+[^51]: All's Well That Ends Well 1.3: Helena. **manifest** clear or obvious to the eye or mind
 
-[^52]: As You Like It 2.7: Duke Senior.
+[^52]: As You Like It 2.7: Duke Senior. **engendered** cause or give rise to (a feeling, situation, or condition) 
 
 [^53]: The Tempest 5.1: Miranda. On seeing her betrothed Ferdinand's father
-   Alonso and his retinue.
+   Alonso and his retinue. **brave** ready to face and endure danger or pain; showing courage
 
 [^54]: The Tempest 5.1: Ariel. On learning he will soon be freed from his
-   service to Prospero.
+   service to Prospero. **merrily** in a cheerful way
 
-[^55]: The Tempest 4.1: Prospero. Explaining his magic arts to Ferdinand.
+[^55]: The Tempest 4.1: Prospero. Explaining his magic arts to Ferdinand. **foretold you** already told you 
 
-[^56]: Sonnet 150. "To" changed to "do." Stop seeing the truth.
+[^56]: Sonnet 150. **give the lie to** show to be inaccurate or untrue
 
-[^57]: The Tempest 5.1: Prospero. Hands that release him from his bonds.
+[^57]: The Tempest 5.1: Prospero. Hands that release him from his bonds. 
 
-[^58]: The Tempest 2.1: Gonzalo.
+[^58]: The Tempest 2.1: Gonzalo. **common** communal
 
-[^59]: The Tempest 4.1: Iris.
+[^59]: The Tempest 4.1: Iris. **donation** gift, favour **estate** bestow
 
-[^60]: The Tempest 5.1: Ariel.
+[^60]: The Tempest 5.1: Ariel. **bough** main branch of a tree
 
-[^61]: The Tempest 3.2: Caliban.
+[^61]: The Tempest 3.2: Caliban. **airs** tunes or short melodious songs
 
-[^62]: The Tempest 5.1: Ariel.
+[^62]: The Tempest 5.1: Ariel. **cowslip** a European primula with clusters of drooping fragrant yellow flowers in spring, growing on dry grassy banks and in pasture
 
-[^63]: Hamlet, Prince of Denmark 3.1: Hamlet.
+[^63]: Hamlet, Prince of Denmark 3.1: Hamlet. **dread** anticipate with great apprehension or fear
 
 [^64]: The Merchant of Venice 4.1: Portia. She speaks of the quality of
-   mercy.
+   mercy. **droppeth** drops
 
-[^65]: Richard III 5.5: Henry, Earl of Richmond.
+[^65]: Richard III 5.5: Henry, Earl of Richmond. **ye** you all **printless foot** footsteps that leave no mark **ebbing** receding, moving away
 
-[^66]: Henry IV, Part 1 2.4: Falstaff.
+[^66]: Henry IV, Part 1 2.4: Falstaff. **thee** you **thou** you **halt** stop
 
-[^67]: Twelfth Night 1.1: Valentine. To Duke Orsino on Olivia's mourning of
-   her brother's death.
+[^67]: Twelfth Night 1.1: Valentine. **cloistress** nun **veil** a piece of fabric forming part of a nun's headdress, resting on the head and shoulders
 
 [^68]: Twelfth Night 3.4: Antonio.
 
 [^69]: Measure For Measure 5.1: Mariana.
 
-[^70]: A Midsummer Night's Dream 5.1: Theseus.
+[^70]: A Midsummer Night's Dream 5.1: Theseus. **fresh** new
 
-[^71]: Hamlet, Prince of Denmark 3.1: Hamlet.
+[^71]: Hamlet, Prince of Denmark 3.1: Hamlet. **scorns** feelings and expressions of contempt or disdain for someone or something
 
-[^72]: King John 3.4: Pandulph.
+[^72]: King John 3.4: Pandulph. **unacquainted** not having met before
 
 [^73]: The Merchant of Venice 2.7: Morocco.
 
-[^74]: Twelfth Night 1.3: Sir Toby Belch.
+[^74]: Twelfth Night 1.3: Sir Toby Belch. **wherefore** for what reason
 
-[^75]: Sonnet 18.
+[^75]: Sonnet 18. **lease** a contract by which one party conveys land, property, services, etc. to another for a specified time **hath** has **all too short a date** will end soon.
 
-[^76]: The Tempest 1.2: Prospero. He reveals to Miranda her past. "Ope" is
-   "open," "thine" is "your."
+[^76]: The Tempest 1.2: Prospero. He reveals to Miranda her past. **bids** asks **thee** you **ope** open **thine ear** your ear
 
 [^77]: Twelfth Night 2.4: Viola.
 
-[^78]: Twelfth Night 1.1: Duke Orsino.
+[^78]: Twelfth Night 1.1: Duke Orsino. **quick** alive **art thou** you are
 
-[^79]: Hamlet, Prince of Denmark 3.1: Hamlet. Our projects, our cows, etc..
+[^79]: Hamlet, Prince of Denmark 3.1: Hamlet. **enterprises** projects **pith** substance, essence **moment** urgency
 
 [^80]: The Tempest 4.1: Prospero. What becomes of his conjured spirits.
 
-[^81]: Romeo and Juliet 2.2: Juliet. Her response to Romeo's avowals.
+[^81]: Romeo and Juliet 2.2: Juliet. Her response to Romeo's avowals. **swear** vow **inconstant** frequently changing; variable or irregular
 
-[^82]: Hamlet, Prince of Denmark 5.2: Hamlet. Before dueling with Laertes.
+[^82]: Hamlet, Prince of Denmark 5.2: Hamlet. **readiness** the state of being fully prepared for something
 
-[^83]: Henry VI, Part III 4.7: Gloucester. **crowns** awakening
+[^83]: Henry VI, Part III 4.7: Gloucester. **crowns** the top or highest part of something, i.e. awakening
 
 [^84]: Love's Labour Lost 4.3: Biron. 
 
-[^85]: Twelfth Night 1.2: Viola.
+[^85]: Twelfth Night 2.3: Feste. Youth is impermanent and subject to aging.
 
-[^86]: Hamlet, Prince of Denmark 1.2: Hamlet. Interpretation: A disguise or
-   a self only leads to weariness.
+[^86]: The Tempest 2.1: Antonio. 
 
-[^87]: Hamlet, Prince of Denmark 3.1: Hamlet.
+[^87]: Hamlet, Prince of Denmark 3.1: Hamlet. **native hue of resolution** original aspiration
 
-[^88]: Troilus and Cressida 1.3: Agamemnon.
+[^88]: Troilus and Cressida 1.3: Agamemnon. **unmingled** not mixed, pure
 
-[^89]: Romeo and Juliet 3.3: Friar John.
+[^89]: Romeo and Juliet 3.3: Friar John. **courts thee** woos thee, seeks your favour **array** elaborate or beautiful clothing
 
-[^90]: Romeo and Juliet 3.5: Juliet.
+[^90]: Romeo and Juliet 3.5: Juliet. **comes well** is welcome **needy** insecure
 
-[^91]: Sonnet 4.
+[^91]: Sonnet 4. **bequest** legacy **gives...lend** is merely borrowed
 
 [^92]: King Lear 1.1: King Lear. Despite Cordelia's honesty, Lear does not
    perceive her faithfulness to him. These verses incite us to engage
    with truth as a test of faith, leaving behind the dower of
-   possessions.
+   possessions. **thy truth** your honesty **dower** life estate to which a woman is entitled on the death of her husband
 
-[^93]: Love's Labour Lost 1.1: Berowne. True study brings clarity.
+[^93]: Love's Labour Lost 1.1: Berowne. True study brings clarity. **glorious** having a striking beauty or splendour
 
-[^94]: The Tempest 1.2: Prospero.
+[^94]: The Tempest 1.2: Prospero. **thee** you
 
-[^95]: A Midsummer Night's Dream 2.1: Oberon.
+[^95]: A Midsummer Night's Dream 2.1: Oberon. **uttering** speaking **dulcet** sweet and soothing
 
-[^96]: Richard III 5.5: Richmond. Brotherhood and peace to succeed strife.
+[^96]: Richard III 5.5: Richmond. Brotherhood and peace to go beyond strife. **that long** that for a long time **have frowned** have disapproved of **enmity** a state or feeling of active opposition or hostility
 
 [^97]: A Midsummer Night's Dream 5.1: Puck.
 
