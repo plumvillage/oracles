@@ -775,7 +775,7 @@
 
 [^1]: The Tempest 1.2: Ariel. Miraculous action, as quick as thought.
 
-[^2]: Sonnet 8. "Seeming" changed to "seems". Thunder is the speechless song of clouds.
+[^2]: Sonnet 8. Thunder is the speechless song of clouds. *nb. "Seeming" changed to "seems".*
 
 [^3]: Sonnet 60. **doth** does **transfix** pierce **flourish** bloom/adornment     
 
@@ -793,31 +793,31 @@
 
 [^10]: Richard III 3.7: Buckingham
 
-[^11]: The Tempest Epilogue: Prospero. **charms** spells/enchantments **o'erthrown** overthrown = dispelled
+[^11]: The Tempest Epilogue: Prospero. **charms** spells/enchantments **o'erthrown** been put to an end
 
 [^12]: Romeo and Juliet 1.4: Mercutio. "I talk of dreams." **begot** brought into existence **vain** useless
 
-[^13]: Sonnet 11. "She" here is Nature.
+[^13]: Sonnet 11. **she** Nature **best endow'd** gave the best qualities to
 
 [^14]: Twelfth Night 2.4: Duke Orsino. Here he notes the unsteadiness of
-   man's desires.
+   man's desires. **fancies** imagined realities **giddy** disorienting **unfirm** unstable
 
-[^15]: Sonnet 5. Trees in winter.
+[^15]: Sonnet 5. Trees in winter. **checked** congealed **lusty** healthy and strong
 
 [^16]: Twelfth Night 1.2: Captain. He reassures Viola that her brother may
    have saved himself from drowning.
 
-[^17]: Sonnet 18. Inclement weather precedes summer.
+[^17]: Sonnet 18. Inclement weather precedes summer. Adversity at a tender age.
 
 [^18]: King Lear 5.3: King Lear. He vows to begin anew with his daughter
-   Cordelia for having judged her wrongly.
+   Cordelia for having judged her wrongly. **thee** you
 
-[^19]: The Tempest 4.1: Juno
+[^19]: The Tempest 4.1: Juno. Continue to experience joy in every moment.
 
-[^20]: The Merchant of Venice 1.2: Messenger
+[^20]: The Merchant of Venice 1.2: Messenger. **frame** set **mirth** cheer/joy
 
 [^21]: A Midsummer Night's Dream 1.1: Hippolyta. The moon overlooking the
-   world at night.
+   world at night. **new-bent moon** crescent moon
 
 [^22]: The Tempest 5.1: Miranda. She wonders at Alonso's retinue upon his
    reunion with Ferdinand, after being raised by Prospero apart from
@@ -825,29 +825,25 @@
 
 [^23]: Sonnet 7. The sun rising.
 
-[^24]: King Lear 2.2: Kent. He has been put in stocks by Cornwall and Regan,
-   Lear's daughter.
+[^24]: King Lear 2.2: Kent. **Fortune** goddess of luck **smile** bring me good luck **thy** your **wheel** Fortune's wheel, which brings luck, misfortune, or neither. 
 
-[^25]: Sonnet 5. The earth at winter.
+[^25]: Sonnet 5. The earth at winter. **o'ersnow'd** covered with snow **bareness everywhere** no leaves on trees, no grass, etc.
 
-[^26]: Hamlet, Prince of Denmark 1.2: Hamlet. Added "s" to thaw and resolve.
+[^26]: Hamlet, Prince of Denmark 1.2: Hamlet. **resolves** turns into a different form *nb. Added "s" to thaw and resolve.*
 
-[^27]: The Tempest 5.1: Prospero
+[^27]: The Tempest 5.1: Prospero. **do offices of truth** reveal what is true 
 
-[^28]: The Tempest 1.2: Prospero.
+[^28]: The Tempest 1.2: Prospero. **closeness** solitude
 
-[^29]: Hamlet, Prince of Denmark 3.2: Hamlet. He charges Guildenstern with
-   trying to play upon him to discover the root of his discontent.
+[^29]: Hamlet, Prince of Denmark 3.2: Hamlet. **sound me** test me **lowest note...compass** from the bottom of my feet to the top of my head
 
-[^30]: A Midsummer Night's Dream 2.1: Helena. She professes the
-   steadfastness of her love for Demetrius.
+[^30]: A Midsummer Night's Dream 2.1: Helena.
 
-[^31]: Sonnet 1.
+[^31]: Sonnet 1. **thy** your **foe** enemy 
 
-[^32]: Twelfth Night 1.3: Sir Toby Belch. He feels his niece Olivia should
-   be free of the sorrow caused by her brother's death.
+[^32]: Twelfth Night 1.3: Sir Toby Belch. **care** worry
 
-[^33]: As You Like It 2.1: Duke Senior
+[^33]: As You Like It 2.1: Duke Senior. **sermon** a talk on a religious or moral subject
 
 [^34]: As You Like It 2.7: Duke Senior
 
