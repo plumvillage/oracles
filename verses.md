@@ -104,7 +104,7 @@
 
 #. 
 
-    | Those be rubies, fairy favors;[^41]
+    | Those be rubies, fairy favours;[^41]
     | They sparkle still the right Promethean fire.[^42]
 
 #. 
@@ -845,25 +845,23 @@
 
 [^33]: As You Like It 2.1: Duke Senior. **sermon** a talk on a religious or moral subject
 
-[^34]: As You Like It 2.7: Duke Senior
+[^34]: As You Like It 2.7: Duke Senior.
 
-[^35]: The Tempest 2.1: Antonio.
+[^35]: The Tempest 2.1: Antonio. **thou showest** you show **thou knowest** you know
 
-[^36]: Sonnet 18. For "thou ow'st" read "you own," meaning that fair which
-   is yours.
+[^36]: Sonnet 18. **fair** beauty **thou ow'st** you own/that is yours
 
 [^37]: The Tempest 1.2: Prospero. He asks Miranda to see what she remembers
-   of her past.
+   of her past. **seest thou else** else do you see **abysm** bottomless pit
 
-[^38]: Twelfth Night 1.1: Duke Orsino. He sees the fleeting nature of
-   romantic love.
+[^38]: Twelfth Night 1.1: Duke Orsino. **fancy** imagination **fantastical** remote from reality
 
 [^39]: Sonnet 16.
 
-[^40]: Twelfth Night 1.5: Viola
+[^40]: Twelfth Night 1.5: Viola. The willow cabin represents loyalty.
 
 [^41]: A Midsummer Night's Dream 2.1: Fairy. He describes the spots on
-   cowslips.
+   cowslips. **favours** tokens of favour
 
 [^42]: Love's Labour Lost: 4.3. **still...fire** continually with the heavenly fire stolen by Prometheus.
 
